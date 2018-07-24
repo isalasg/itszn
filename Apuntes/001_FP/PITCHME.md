@@ -46,14 +46,17 @@ UNIDAD | TEMAS | SUBTEMAS
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
+-- | -- | --
 3 | Control de Flujo | 3.1 Estructuras secuenciales. 3.2 Estructuras selectivas: simple, doble y múltiple. 3.3 Estructuras iterativas: repetir mientras, hasta, desde.
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
+-- | -- | --
 4 | Organización de datos | 4.1 Arreglos. 4.2 Unidimensionales: conceptos básicos, operaciones y aplicaciones. 4.3 Multidimensionales: conceptos básicos, operaciones y aplicaciones. 4.4 Estructuras o registros.
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
+-- | -- | --
 5 | Modularidad | 5.1 Declaración y uso de módulos. 5.2 Paso de parámetros o argumentos. 5.3 Implementación.
 
 ---
