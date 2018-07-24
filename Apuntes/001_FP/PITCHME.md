@@ -1,11 +1,9 @@
 # Fundamentos de programación
 ## Ingeniería en Sistemas Computacionales
 ### Plan 2010
-
 Introducción
 
 ---
-
 ### Agenda
 - Datos de la materia
 - Caracterización y Competencia
@@ -15,7 +13,6 @@ Introducción
 - Recursos
 
 ---
-
 ### Datos de la materia
 - Nombre: Fundamentos de Programación
 - Carrera: Ingeniería en Sistemas Computacionales
@@ -23,11 +20,15 @@ Introducción
 - Horas teoría-práctica-créditos: 2-3-5
 
 ---
-
 ### Caracterización y Competencia
 - Caracterización
     - Esta asignatura aporta al perfil del egresado, la capacidad para desarrollar un pensamiento lógico a través del diseño de algoritmos utilizando herramientas de programación para el desarrollo de aplicaciones computacionales que resuelvan problemas reales.  
+
+---
+- Caracterización (continuación)
     - Se relaciona con todas aquellas asignaturas en donde se apliquen metodologías de programación y desarrollo de software de las carreras de Ingeniería en Sistemas Computacionales e Ingeniería en Animación Digital y Efectos Visuales.
+
+---
 - Competencia
     - Aplica algoritmos y lenguajes de programación para diseñar e implementar soluciones a problemáticas del entorno.
 
