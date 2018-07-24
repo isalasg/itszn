@@ -8,7 +8,3 @@ Apuntes, ejemplos, proyectos, etc., de clases en el ITSZN
 ## Ejemplos
 - Fundamentos de programación
 - Estructuras de datos
-
-## Presentaciones
-- Fundamentos de programación
-- Estructuras de datos
