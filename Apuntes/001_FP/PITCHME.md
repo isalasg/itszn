@@ -85,10 +85,8 @@ UNIDAD | TEMAS | SUBTEMAS
     - http://www.isalasg.com/lms
 - Otro medio de comunicación para casos especiales con el docente, será mediante el siguiente e-mail:
     - isalasg_tec@hotmail.com
-- Para contacto fuera de clase vía Skype para dudas o asesoría:
-    - isalasg_tec@hotmail.com
 
 ---
 ### Gracias
-**Manuel Ignacio Salas Guzmán**
+**Manuel Ignacio Salas Guzmán**  
 *Agosto 2018*
