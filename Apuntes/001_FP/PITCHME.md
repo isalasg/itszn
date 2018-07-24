@@ -38,9 +38,22 @@ Introducción
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
 1 | Diseño Algorítmico | 1.1 Conceptos básicos. 1.2 Representación de algoritmos: gráfica y pseudocódigo. 1.3 Diseño de algoritmos. 1.4 Diseño de funciones.
+
+---
+UNIDAD | TEMAS | SUBTEMAS
+-- | -- | --
 2 | Introducción a la Programación | 2.1 Conceptos básicos. 2.2 Características del lenguaje de programación. 2.3 Estructura básica de un programa. 2.4 Elementos del lenguaje: tipos de datos, literales, constantes, variables, identificadores
+
+---
+UNIDAD | TEMAS | SUBTEMAS
 3 | Control de Flujo | 3.1 Estructuras secuenciales. 3.2 Estructuras selectivas: simple, doble y múltiple. 3.3 Estructuras iterativas: repetir mientras, hasta, desde.
+
+---
+UNIDAD | TEMAS | SUBTEMAS
 4 | Organización de datos | 4.1 Arreglos. 4.2 Unidimensionales: conceptos básicos, operaciones y aplicaciones. 4.3 Multidimensionales: conceptos básicos, operaciones y aplicaciones. 4.4 Estructuras o registros.
+
+---
+UNIDAD | TEMAS | SUBTEMAS
 5 | Modularidad | 5.1 Declaración y uso de módulos. 5.2 Paso de parámetros o argumentos. 5.3 Implementación.
 
 ---
