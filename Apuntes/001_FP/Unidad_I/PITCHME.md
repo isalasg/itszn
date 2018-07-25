@@ -1,12 +1,16 @@
-# White Binary
+# Fundamentos de programación
 
-### A GitPitch Presentation Template
+### Unidad I
 
 ---
 
-## Tips!
+### Contenido
 
-<br>
+1.1 Conceptos básicos.  
+1.2 Representación de algoritmos: gráfica y pseudocódigo.  
+1.3 Diseño de algoritmos.  
+1.4 Diseño de funciones.
+
 
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
