@@ -5,12 +5,12 @@
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
 theme : beige
-# theme-override : https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/001_FP/Unidad_I/assets/css/PITCHME.css
-theme-override : https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/001_FP/Unidad_I/assets/css/PITCHME.codemax.css
+theme-override : https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/001_FP/Unidad_I/assets/css/PITCHME.css
+# theme-override : https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/001_FP/Unidad_I/assets/css/PITCHME.codemax.css
 highlight : github-gist
 logo : https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/001_FP/Unidad_I/assets/image/logo.png
 background : https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/001_FP/Unidad_I/assets/image/binary-strings-white.jpg
-background-opacity : 10
+background-opacity : 20
 transition : none
 published : true
 footnote : "GitPitch [ White Binary ] Presentation Template"
