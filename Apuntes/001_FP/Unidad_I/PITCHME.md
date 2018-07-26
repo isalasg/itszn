@@ -99,6 +99,11 @@ Todos los valores que aparecen en un programa tienen un tipo.
 ##### Números enteros
 El tipo entero (integer) permite representar números enteros.
 Los valores que puede tomar son todos los números enteros: -3, -2, -1, 0, 1, 2, 3, etc.
+
+---
+
+### 1.1 Conceptos básicos
+#### Tipo de dato (cont)
 ##### Números reales
 El tipo real o flotante (float, doublé) permite representar números reales.
 El nombre viene del término punto flotante, que es la manera en que el computador representa internamente los números reales.
@@ -126,6 +131,11 @@ Una variable es un objeto nombrado capaz de contener un dato que puede ser modif
 #### Operadores
 Un operador es un símbolo en una expresión que representa una operación aplicada a los valores sobre los que actúa.  
 Los valores sobre los que actúa un operador se llaman operandos. Un operador binario es el que tiene dos operandos, mientras que un operador unario es el que tiene sólo uno.  
+
+---
+
+### 1.1 Conceptos básicos
+#### Operadores (cont)
 Por ejemplo, en la expresión 2.0 + x el operador + es un operador binario que en este contexto representa la operación de adición. Sus operandos son 2.0 y x.  
 Las operaciones más comunes se pueden clasificar en: aritméticas, relacionales y lógicas.
 
