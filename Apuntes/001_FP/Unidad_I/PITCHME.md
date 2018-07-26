@@ -14,13 +14,33 @@
 ---
 
 ### 1.1 Conceptos básicos
-#### Algoritmo
+#### Algoritmo (cont)
 Secuencia finita de instrucciones, reglas o pasos que describen de forma precisa las operaciones de un ordenador debe realizar para llevar a cabo una tarea en un tiempo más finito.  
-Todo el mundo conoce y utiliza algoritmos a diario, incluso sin darse cuenta:  
+Todo el mundo conoce y utiliza algoritmos a diario, incluso sin darse cuenta:
+
+---
+
+### 1.1 Conceptos básicos
+#### Algoritmo (cont)
 Una receta de cocina es un algoritmo; si bien podríamos cuestionar que algunos pasos son ambiguos (¿cuánto es «una pizca de sal»? ¿qué significa «agregar a gusto»?), en general las instrucciones están lo suficientemente bien definidas para que uno las pueda seguir sin problemas.  
+
+---
+
+### 1.1 Conceptos básicos
+#### Algoritmo (cont)
 La entrada de una receta son los ingredientes y algunos datos como: ¿para cuántas personas se cocinará? El proceso es la serie de pasos para manipular los ingredientes. La salida es el plato terminado.  
 En principio, si una receta está suficientemente bien explicada, podría permitir preparar un plato a alguien que no sepa nada de cocina.  
+
+---
+
+### 1.1 Conceptos básicos
+#### Algoritmo (cont)
 El método para multiplicar números a mano que aprendimos en el colegio es un algoritmo. Dado cualquier par de números enteros, si seguimos paso a paso el procedimiento siempre obtendremos el producto.  
+
+---
+
+### 1.1 Conceptos básicos
+#### Algoritmo (cont)
 La entrada del algoritmo de multiplicación son los dos factores. El proceso es la secuencia de pasos en que los dígitos van siendo multiplicados las reservas van siendo sumadas, y los productos intermedios son finalmente sumados. La salida del algoritmo es el producto obtenido.  
 Un algoritmo debe poder ser usado mecánicamente, sin necesidad de usar inteligencia, intuición ni habilidad.
 
