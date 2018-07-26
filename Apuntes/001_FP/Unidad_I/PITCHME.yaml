@@ -10,7 +10,7 @@ theme-override : https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/
 highlight : github-gist
 logo : https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/001_FP/Unidad_I/assets/image/logo.png
 background : https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/001_FP/Unidad_I/assets/image/binary-strings-white.jpg
-background-opacity : 20
+background-opacity : 50
 transition : none
 published : true
 footnote : "GitPitch [ White Binary ] Presentation Template"
