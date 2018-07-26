@@ -70,6 +70,11 @@ Es el proceso de diseñar, codificar, depurar y mantener el código fuente de pr
 #### Paradigma de programación (cont)
 - Los lenguajes de programación suelen implementar, a menudo de forma parcial, varios paradigmas.
 - Los paradigmas fundamentales están basados en diferentes modelos de cómputo y por lo tanto afectan a las construcciones más básicas de un programa.
+
+---
+
+### 1.1 Conceptos básicos
+#### Paradigma de programación (cont)
 - La división principal reside en el enfoque imperativo (indicar el cómo se debe calcular) y el enfoque declarativo (indicar el qué se debe calcular).
     - El enfoque declarativo tiene varias ramas diferenciadas: el paradigma funcional, el paradigma lógico, la programación reactiva y los lenguajes descriptivos.
 
