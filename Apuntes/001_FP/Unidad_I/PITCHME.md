@@ -145,6 +145,12 @@ Las operaciones más comunes se pueden clasificar en: aritméticas, relacionales
 #### Operadores (cont)
 ##### Operadores aritméticos
 Las operaciones aritméticas son las que operan sobre valores numéricos y entregan otro valor numérico como resultado. Los valores numéricos son los que tienen tipo entero o real.  
+
+---
+
+### 1.1 Conceptos básicos
+#### Operadores (cont)
+##### Operadores aritméticos (cont)
 Algunas operaciones aritméticas básicas son:
 - la suma +;
 - la resta -;
@@ -158,6 +164,12 @@ Algunas operaciones aritméticas básicas son:
 #### Operadores (cont)
 ##### Operadores relacionales
 Las operaciones relacionales sirven para comparar valores. Sus operandos son cualquier cosa que pueda ser comparada, y sus resultados siempre son valores lógicos.  
+
+---
+
+### 1.1 Conceptos básicos
+#### Operadores (cont)
+##### Operadores relacionales (cont)
 Algunos operadores relacionales son:
 - el igual a == (no confundir con el = de las asignaciones);
 - el distinto a !=;
