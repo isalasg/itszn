@@ -5,11 +5,11 @@
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
 theme : beige
-theme-override : ./001_FP/Unidad_I/assets/css/PITCHME.css
+theme-override : ./assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : github-gist
-logo : ./001_FP/Unidad_I/assets/image/logo.png
-background : ./001_FP/Unidad_I/assets/image/binary-strings-white.jpg
+logo : ./assets/image/logo.png
+background : ./assets/image/binary-strings-white.jpg
 background-opacity : 10
 transition : none
 published : true
