@@ -1,4 +1,4 @@
-# Fundamentos de programación
+# Fundamentos de Ingeniería de Software
 ## Ingeniería en Sistemas Computacionales
 ### Plan 2010
 Introducción
@@ -14,58 +14,49 @@ Introducción
 
 ---
 ### Datos de la materia
-- Nombre: Fundamentos de Programación
+- Nombre: Fundamentos de Ingeniería de Software
 - Carrera: Ingeniería en Sistemas Computacionales
-- Clave: AED-1285
-- Horas teoría-práctica-créditos: 2-3-5
+- Clave: SCC-1007
+- Horas teoría-práctica-créditos: 2-2-4
 
 ---
 ### Caracterización y Competencia
-- Caracterización
-    - Esta asignatura aporta al perfil del egresado, la capacidad para desarrollar un pensamiento lógico a través del diseño de algoritmos utilizando herramientas de programación para el desarrollo de aplicaciones computacionales que resuelvan problemas reales.  
-
----
-- Caracterización (continuación)
-    - Se relaciona con todas aquellas asignaturas en donde se apliquen metodologías de programación y desarrollo de software de las carreras de Ingeniería en Sistemas Computacionales e Ingeniería en Animación Digital y Efectos Visuales.
-
----
-- Competencia
-    - Aplica algoritmos y lenguajes de programación para diseñar e implementar soluciones a problemáticas del entorno.
+- Realiza el análisis de un proyecto de software, a partir de la identificación del modelo de negocios de la organización que permita alcanzar estándares y métricas de calidad.
 
 ---
 
 ### Temario
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-1 | Diseño Algorítmico | 1.1 Conceptos básicos. 1.2 Representación de algoritmos: gráfica y pseudocódigo. 1.3 Diseño de algoritmos. 1.4 Diseño de funciones.
+1 | Fundamentos de Ingeniería de software | 1.1. Conceptos básicos. 1.2. Fases de la Ingeniería de software. 1.3 Metodologías de desarrollo de software. 1.3.1 Clásicas. 1.3.2 Agiles. 1.3.3 Otras filosofías. 1.4. Importancia de las herramientas CASE en la Ingeniería de software..
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-2 | Introducción a la Programación | 2.1 Conceptos básicos. 2.2 Características del lenguaje de programación. 2.3 Estructura básica de un programa. 2.4 Elementos del lenguaje: tipos de datos, literales, constantes, variables, identificadores
+2 | El modelo de negocio | 2.1 Definición. 2.2 Componentes. 2.3 Estándares. 2.4 Diagramas.
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-3 | Control de Flujo | 3.1 Estructuras secuenciales. 3.2 Estructuras selectivas: simple, doble y múltiple. 3.3 Estructuras iterativas: repetir mientras, hasta, desde.
+3 | Ingeniería de requisitos | 3.1 Características de los requisitos. 3.2 Tipos de requisitos. 3.2.1 Funcionales. 3.2.2 No funcionales. 3.2.3 De dominio. 3.3 Tareas y técnicas de la ingeniería de requisitos. 3.4 Obtención de requisitos. 3.4.1 Técnicas de recopilación de información. 3.4.2 Representación de requisitos. 3.5 Herramientas CASE para la ingeniería de requisitos. 3.6 Especificación de requisitos de software.
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-4 | Organización de datos | 4.1 Arreglos. 4.2 Unidimensionales: conceptos básicos, operaciones y aplicaciones. 4.3 Multidimensionales: conceptos básicos, operaciones y aplicaciones. 4.4 Estructuras o registros.
+4 | Modelo de Análisis | 4.1. Clases. 4.2. Objetos. 4.3. Modelo de requisitos. 4.4. Modelo de casos de uso. 4.5. Modelo de dominio.
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-5 | Modularidad | 5.1 Declaración y uso de módulos. 5.2 Paso de parámetros o argumentos. 5.3 Implementación.
+5 | Calidad del software | 5.1 Definición de calidad. 5.2 Importancia de la calidad. 5.3 Factores de calidad. 5.4 Aseguramiento de la calidad. 5.5 Estándares y métricas de calidad. 5.6 Modelos de madurez. 5.6.1 Enfoque de procesos. 5.6.2 PSP y TSP. 5.6.3 SPICE. 5.6.4 CMMI. 5.6.5 MoProSoft.
 
 ---
 ### Plan
 - Unidad I. 3 semanas
 - Unidad II. 3 semanas
-- Unidad III. 5 semanas
-- Unidad IV. 3 semanas
-- Unidad V. 2 semanas
+- Unidad III. 4 semanas
+- Unidad IV. 4 semanas
+- Unidad V. 3 semanas
 
 ---
 ### Políticas del curso

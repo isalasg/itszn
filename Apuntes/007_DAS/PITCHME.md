@@ -1,4 +1,4 @@
-# Fundamentos de programación
+# Desarrollo Ágil de Software
 ## Ingeniería en Sistemas Computacionales
 ### Plan 2010
 Introducción
@@ -14,58 +14,53 @@ Introducción
 
 ---
 ### Datos de la materia
-- Nombre: Fundamentos de Programación
+- Nombre: Desarrollo Ágil de Software
 - Carrera: Ingeniería en Sistemas Computacionales
-- Clave: AED-1285
-- Horas teoría-práctica-créditos: 2-3-5
+- Clave: ISB-1701
+- Horas teoría-práctica-créditos: 1-4-5
 
 ---
 ### Caracterización y Competencia
 - Caracterización
-    - Esta asignatura aporta al perfil del egresado, la capacidad para desarrollar un pensamiento lógico a través del diseño de algoritmos utilizando herramientas de programación para el desarrollo de aplicaciones computacionales que resuelvan problemas reales.  
-
----
-- Caracterización (continuación)
-    - Se relaciona con todas aquellas asignaturas en donde se apliquen metodologías de programación y desarrollo de software de las carreras de Ingeniería en Sistemas Computacionales e Ingeniería en Animación Digital y Efectos Visuales.
+    - Esta asignatura aporta al perfil del ingeniero los conocimientos de desarrollo de software utilizando metodologías ágiles, específicamente Scrum, con el fin de apoyar la productividad y competitividad de las organizaciones en las que se desenvuelva. Además, será capaz de evaluar el rendimiento de desarrollo ágil contra desarrollo bajo procesos.  
 
 ---
 - Competencia
-    - Aplica algoritmos y lenguajes de programación para diseñar e implementar soluciones a problemáticas del entorno.
+    - El alumno será capaz de aplicar la metodología ágil Scrum, en el desarrollo de software.
 
 ---
-
 ### Temario
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-1 | Diseño Algorítmico | 1.1 Conceptos básicos. 1.2 Representación de algoritmos: gráfica y pseudocódigo. 1.3 Diseño de algoritmos. 1.4 Diseño de funciones.
+1 | Introducción | 1.1 Introducción a Scrum. 1.2 Roles. 1.3 Artefactos. 1.4 Eventos. 1.5 Fases.
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-2 | Introducción a la Programación | 2.1 Conceptos básicos. 2.2 Características del lenguaje de programación. 2.3 Estructura básica de un programa. 2.4 Elementos del lenguaje: tipos de datos, literales, constantes, variables, identificadores
+2 | Inicio | 2.1 Visión del proyecto. 2.2 Identificación de Scrum Master y socios. 2.3 Formación de equipo Scrum.
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-3 | Control de Flujo | 3.1 Estructuras secuenciales. 3.2 Estructuras selectivas: simple, doble y múltiple. 3.3 Estructuras iterativas: repetir mientras, hasta, desde.
+3 | Planeación y estimación | 3.1 Creación de historias de usuario. 3.2 Aprobación, estimación y asignación de historias de usuario. 3.3 Creación del product backlog.
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-4 | Organización de datos | 4.1 Arreglos. 4.2 Unidimensionales: conceptos básicos, operaciones y aplicaciones. 4.3 Multidimensionales: conceptos básicos, operaciones y aplicaciones. 4.4 Estructuras o registros.
+4 | Ejecución del sprint | 4.1 Implementación. 4.2 Revisión y retrospectiva.
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-5 | Modularidad | 5.1 Declaración y uso de módulos. 5.2 Paso de parámetros o argumentos. 5.3 Implementación.
+5 | Lanzamiento | 5.1 Envío de entregables. 5.2 Retrospectiva del proyecto.
 
 ---
 ### Plan
 - Unidad I. 3 semanas
-- Unidad II. 3 semanas
-- Unidad III. 5 semanas
-- Unidad IV. 3 semanas
-- Unidad V. 2 semanas
+- Unidad II. 2 semanas
+- Unidad III. 3 semanas
+- Unidad IV. 6 semanas
+- Unidad V. 3 semanas
 
 ---
 ### Políticas del curso

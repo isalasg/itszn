@@ -72,9 +72,9 @@ UNIDAD | TEMAS | SUBTEMAS
 - Unidad III. 2 semanas
 - Unidad IV. 2 semanas
 - Unidad V. 3 semanas
-- Unidad VI. 4 semanas
+- Unidad VI. 5 semanas
 - Unidad VII. 2 semanas
-- Unidad VIII. 2 semanas
+- Unidad VIII. 1 semanas
 
 ---
 ### Políticas del curso

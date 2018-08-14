@@ -1,4 +1,4 @@
-# Estructuras de datos
+# Estructura de datos
 ## Ingeniería en Sistemas Computacionales
 ### Plan 2010
 Introducción
@@ -60,7 +60,7 @@ UNIDAD | TEMAS | SUBTEMAS
 - Unidad I, 2 semanas.
 - Unidad II, 2 semanas.
 - Unidad III, 5 semanas.
-- Unidad IV, 4 semanas.
+- Unidad IV, 5 semanas.
 - Unidad V, 2 semanas.
 - Unidad VI, 1 semana.
 

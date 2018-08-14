@@ -61,9 +61,9 @@ UNIDAD | TEMAS | SUBTEMAS
 
 ---
 ### Plan
-- Unidad I. 3 semanas
-- Unidad II. 3 semanas
-- Unidad III. 5 semanas
+- Unidad I. 4 semanas
+- Unidad II. 2 semanas
+- Unidad III. 6 semanas
 - Unidad IV. 3 semanas
 - Unidad V. 2 semanas
 

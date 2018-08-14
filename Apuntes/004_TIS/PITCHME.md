@@ -16,56 +16,55 @@ Introducción
 ### Datos de la materia
 - Nombre: Taller de Ingeniería de Software
 - Carrera: Ingeniería en Tecnologías de la Información y Comunicaciones
-- Clave: AED-1285
-- Horas teoría-práctica-créditos: 2-3-5
+- Clave: TIC-1027
+- Horas teoría-práctica-créditos: 2-2-4
 
 ---
 ### Caracterización y Competencia
 - Caracterización
-    - Esta asignatura aporta al perfil del egresado, la capacidad para desarrollar un pensamiento lógico a través del diseño de algoritmos utilizando herramientas de programación para el desarrollo de aplicaciones computacionales que resuelvan problemas reales.  
-
----
-- Caracterización (continuación)
-    - Se relaciona con todas aquellas asignaturas en donde se apliquen metodologías de programación y desarrollo de software de las carreras de Ingeniería en Sistemas Computacionales e Ingeniería en Animación Digital y Efectos Visuales.
+    - Esta asignatura aporta al perfil del Ingeniero en Tecnologías de la Información y Comunicaciones la capacidad de desarrollar e implementar sistemas de información para el control y la toma de decisiones utilizando metodologías basadas en estándares internacionales, administrar proyectos que involucren tecnologías de información en las organizaciones conforme a requerimientos establecidos, así como utilizar tecnologías y herramientas actuales y emergentes acordes a las necesidades del entorno.  
 
 ---
 - Competencia
-    - Aplica algoritmos y lenguajes de programación para diseñar e implementar soluciones a problemáticas del entorno.
+    - Aplica métodos y herramientas de la ingeniería del software en el desarrollo de software aplicando estándares de calidad y productividad.
 
 ---
 
 ### Temario
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-1 | Diseño Algorítmico | 1.1 Conceptos básicos. 1.2 Representación de algoritmos: gráfica y pseudocódigo. 1.3 Diseño de algoritmos. 1.4 Diseño de funciones.
+1 | Ingeniería del software para el comercio electrónico | 1.1. Antecedentes de los Negocios Electrónicos. 1.2. Negocio-Comercio electrónico. 1.2.1Concepto de e-business y e-commerce. 1.2.2 Tipos de comercio electrónico. 1.2.3 Sistemas de comercio electrónico. 1.3. Tecnologías utilizadas para el comercio
+electrónico: socket, objetos distribuidos, CGI, espacios, contenidos ejecutables, entre otros. 1.4. Ingeniería de seguridad: encriptación, firmas
+digitales, certificaciones digitales, entre otros. 1.5. Sistemas distribuidos.
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-2 | Introducción a la Programación | 2.1 Conceptos básicos. 2.2 Características del lenguaje de programación. 2.3 Estructura básica de un programa. 2.4 Elementos del lenguaje: tipos de datos, literales, constantes, variables, identificadores
+2 | Ingeniería web | 2.1. Atributos de los sistemas y aplicaciones basados
+en web. 2.2. Estratos de la ingeniería de webapp. 2.3. El proceso de ingeniería web. 2.4. Mejores prácticas de ingeniería web. 2.5. Formulación de sistemas basados en web. 2.6. Planeación de proyectos de ingeniería web. 2.7. El equipo de ingeniería web. 2.8. Conflictos de gestión de proyecto para ingeniería web. 2.9. Medición para ingeniería web y webapps. 
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-3 | Control de Flujo | 3.1 Estructuras secuenciales. 3.2 Estructuras selectivas: simple, doble y múltiple. 3.3 Estructuras iterativas: repetir mientras, hasta, desde.
+3 | Análisis de aplicaciones web | 3.1. Requisitos para el análisis de las webapps. 3.2. El modelado de análisis para webapps. 3.3. Modelo de contenido. 3.4. Modelo de interacción. 3.5. Modelo funcional. 3.6. Modelo de configuración. 3.7. Análisis relación-navegación. 
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-4 | Organización de datos | 4.1 Arreglos. 4.2 Unidimensionales: conceptos básicos, operaciones y aplicaciones. 4.3 Multidimensionales: conceptos básicos, operaciones y aplicaciones. 4.4 Estructuras o registros.
+4 | Diseño para aplicaciones web | 4.1. Temas de diseño para ingeniería web. 4.2. Pirámide del diseño ingeniería web. 4.3. Diseño de la interfaz de la webapp. 4.4. Diseño estético. 4.5. Diseño del contenido. 4.6. Diseño arquitectónico. 4.7. Diseño de navegación. 4.8. Métricas de diseño para webapps.
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-5 | Modularidad | 5.1 Declaración y uso de módulos. 5.2 Paso de parámetros o argumentos. 5.3 Implementación.
+5 | Verificación y validación de aplicaciones web | 5.1. Planificación de la verificación y validación de aplicaciones web. 5.2. Inspección de software basado en web. 5.3. Pruebas de las aplicaciones web. 5.4. Ejemplos de pruebas para webapps. 5.5. Implementación de las aplicaciones web. 5.6. Evaluación de las aplicaciones web. 5.7. Mantenimiento de las aplicaciones web.
 
 ---
 ### Plan
 - Unidad I. 3 semanas
 - Unidad II. 3 semanas
-- Unidad III. 5 semanas
-- Unidad IV. 3 semanas
-- Unidad V. 2 semanas
+- Unidad III. 4 semanas
+- Unidad IV. 4 semanas
+- Unidad V. 3 semanas
 
 ---
 ### Políticas del curso
