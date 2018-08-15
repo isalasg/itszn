@@ -4,7 +4,7 @@
 
 ---
 ### Contenido
-@ol[roman]
+@ol
 
 1.1 Conceptos básicos.  
 1.2 Representación de algoritmos: gráfica y pseudocódigo (Ejercicios en cuaderno).  
