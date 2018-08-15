@@ -4,7 +4,7 @@
 Introducción
 
 ---
-### Agenda
+### @color[orange](Agenda)
 - Datos de la materia
 - Caracterización y Competencia
 - Temario
@@ -13,14 +13,14 @@ Introducción
 - Recursos
 
 ---
-### Datos de la materia
+### @color[orange](Datos de la materia)
 - Nombre: Fundamentos de Programación
 - Carrera: Ingeniería en Sistemas Computacionales
 - Clave: AED-1285
 - Horas teoría-práctica-créditos: 2-3-5
 
 ---
-### Caracterización y Competencia
+### @color[orange](Caracterización y Competencia)
 - Caracterización
     - Esta asignatura aporta al perfil del egresado, la capacidad para desarrollar un pensamiento lógico a través del diseño de algoritmos utilizando herramientas de programación para el desarrollo de aplicaciones computacionales que resuelvan problemas reales.  
 
@@ -34,7 +34,7 @@ Introducción
 
 ---
 
-### Temario
+### @color[orange](Temario)
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
 1 | Diseño Algorítmico | 1.1 Conceptos básicos. 1.2 Representación de algoritmos: gráfica y pseudocódigo. 1.3 Diseño de algoritmos. 1.4 Diseño de funciones.
@@ -60,7 +60,7 @@ UNIDAD | TEMAS | SUBTEMAS
 5 | Modularidad | 5.1 Declaración y uso de módulos. 5.2 Paso de parámetros o argumentos. 5.3 Implementación.
 
 ---
-### Plan
+### @color[orange](Plan)
 - Unidad I. 4 semanas
 - Unidad II. 2 semanas
 - Unidad III. 6 semanas
@@ -68,7 +68,7 @@ UNIDAD | TEMAS | SUBTEMAS
 - Unidad V. 2 semanas
 
 ---
-### Políticas del curso
+### @color[orange](Políticas del curso)
 - Evaluación:
     - 35% Conocimiento
     - 35% Producto
@@ -80,13 +80,13 @@ UNIDAD | TEMAS | SUBTEMAS
     - Tres retardos equivalen una falta.
 
 ---
-### Recursos
+### @color[orange](Recursos)
 - Para entrega de tareas, descarga de apuntes y comunicación en general se estará utilizando la plataforma Chamilo, se deben registrar como usuarios y matricularse en el apartado para la materia.
     - http://www.isalasg.com/lms
 - Otro medio de comunicación para casos especiales con el docente, será mediante el siguiente e-mail:
     - isalasg_tec@hotmail.com
 
 ---
-### Gracias
+### @color[orange](Gracias)
 **Manuel Ignacio Salas Guzmán**  
 *Agosto 2018*
