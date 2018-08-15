@@ -6,7 +6,7 @@
 ### @color[brown](Contenido)
 @ol
     1.1 Conceptos básicos.  
-    1.2 Representación de algoritmos: gráfica y pseudocódigo (Ejercicios en cuaderno). [Resumen de Diagramas de Actividad](rda.pdf).  
+    1.2 Representación de algoritmos: gráfica y pseudocódigo (Ejercicios en cuaderno). [Resumen de Diagramas de Actividad](https://github.com/isalasg/itszn/blob/master/Apuntes/001_FP/Unidad_I/rda.pdf).  
     1.3 Diseño de algoritmos (Ejercicios en cuaderno).  
     1.4 Diseño de funciones (Ejercicios en cuaderno).
 @olend
