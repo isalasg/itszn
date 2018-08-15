@@ -1,6 +1,6 @@
 # Fundamentos de programación
 
-### Unidad I
+### @color[brown](Unidad I)
 
 ---
 ### @color[orange](Contenido)
