@@ -20,7 +20,7 @@
 ---
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Algoritmo -cont-)
-- Una receta de cocina es un algoritmo; si bien podríamos cuestionar que algunos pasos son ambiguos (¿cuánto es «una pizca de sal»? ¿qué significa «agregar a gusto»?), en general las instrucciones están lo suficientemente bien definidas para que uno las pueda seguir sin problemas.  
+- Una receta de cocina es un algoritmo; si bien podríamos cuestionar que algunos pasos son ambiguos (¿cuánto es «una pizca de sal»? ¿qué significa «agregar a gusto»?), en general las instrucciones están lo suficientemente @color[green](bien definidas) para que uno las pueda seguir sin problemas.  
 
 ---
 ### @color[brown](1.1 Conceptos básicos)
@@ -42,17 +42,17 @@
 ---
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Programa)
-- Es una serie de instrucciones que le indican a la computadora cuáles son las tareas que tiene que realizar para lograr un fin específico. Debe tener una estructura y organización determinadas, y quien lo ejecuta tiene que seguir una secuencia de acciones para que el resultado sea el deseado.
+- Es una serie de @color[green](instrucciones) que le indican a la computadora cuáles son las @color[green](tareas) que tiene que @color[green](realizar) para lograr un fin específico. Debe tener una estructura y organización determinadas, y quien lo ejecuta tiene que seguir una secuencia de acciones para que el resultado sea el deseado.
 
 ---
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Programación)
-- Es el proceso de diseñar, codificar, depurar y mantener el código fuente de programas computacionales.
+- Es el proceso de @color[green](diseñar), @color[green](codificar), @color[green](depurar) y @color[green](mantener) el @color[green](código) fuente de programas computacionales.
 
 ---
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Paradigma de programación)
-- Un paradigma de programación indica un método de realizar cómputos y la manera en que se deben estructurar y organizar las tareas que debe llevar a cabo un programa.
+- Un paradigma de programación indica un @color[green](método) de realizar cómputos y la manera en que se deben @color[green](estructurar) y @color[green](organizar) las @color[green](tareas) que debe llevar a cabo un programa.
 - Los paradigmas fundamentales están asociados a determinados modelos de cómputo.
 - También se asocian a un determinado estilo de programación.
 
@@ -72,12 +72,12 @@
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Paradigma de programación -cont-)
 - Otros paradigmas se centran en la estructura y organización de los programas, y son compatibles con los fundamentales:
-    - Ejemplos: Programación estructurada, modular, orientada a objetos, orientada a eventos, programación genérica.
+    - Ejemplos: @color[blue](Programación estructurada), @color[blue](modular), @color[blue](orientada a objetos), @color[blue](orientada a eventos), @color[blue](programación genérica).
 
 ---
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Tipo de dato)
-- Un tipo de dato es la propiedad de un valor que determina su dominio (qué valores puede tomar), qué operaciones se le pueden aplicar y cómo es representado internamente por el computador.
+- Un tipo de dato es la @color[green](propiedad) de un valor que determina su @color[green](dominio) (qué valores puede tomar), qué @color[green](operaciones) se le pueden aplicar y cómo es representado internamente por el computador.
 - Todos los valores que aparecen en un programa tienen un tipo.
 
 ---
@@ -85,7 +85,7 @@
 #### @color[orange](Tipo de dato -cont-)
 - Números enteros
     - El tipo entero (integer) permite representar números enteros.
-    - Los valores que puede tomar son todos los números enteros: -3, -2, -1, 0, 1, 2, 3, etc.
+    - Los valores que puede tomar son todos los números enteros: @color[blue](-3, -2, -1, 0, 1, 2, 3, etc.)
 
 ---
 ### @color[brown](1.1 Conceptos básicos)
@@ -98,28 +98,28 @@
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Tipo de dato -cont-)
 - Valores lógicos
-    - Los valores lógicos True y False (verdadero y falso).
+    - Los valores lógicos True y False @color[green](verdadero y falso).
 - Texto
     - A los valores que representan texto se les llama cadenas (strings).
 
 ---
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Constante)
-- Una constante es un objeto nombrado capaz de contener un dato cuyo valor asignado no puede ser cambiado durante la ejecución de programa.
+- Una constante es un objeto nombrado capaz de contener un dato cuyo @color[green](valor) asignado @color[green](no) puede ser @color[green](cambiado) durante la ejecución de programa.
 
 #### @color[orange](Variable)
-- Una variable es un objeto nombrado capaz de contener un dato que puede ser modificado durante la ejecución de programa
+- Una variable es un objeto nombrado capaz de contener un dato que @color[green](puede ser modificado) durante la ejecución de programa
 
 ---
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Operadores)
-- Un operador es un símbolo en una expresión que representa una operación aplicada a los valores sobre los que actúa.
+- Un operador es un @color[green](símbolo) en una expresión que representa una @color[green](operación) aplicada a los valores sobre los que actúa.
 - Los valores sobre los que actúa un operador se llaman operandos. Un operador binario es el que tiene dos operandos, mientras que un operador unario es el que tiene sólo uno.  
 
 ---
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Operadores -cont-)
-- Por ejemplo, en la expresión 2.0 + x el operador + es un operador binario que en este contexto representa la operación de adición. Sus operandos son 2.0 y x.
+- Por ejemplo, en la expresión @color[blue](2.0 + x) el operador @color[blue](+) es un operador binario que en este contexto representa la operación de adición. Sus operandos son @color[blue](2.0 y x).
 - Las operaciones más comunes se pueden clasificar en: aritméticas, relacionales y lógicas.
 
 ---
@@ -143,7 +143,7 @@
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Operadores -cont-)
 - Operadores relacionales
-    - Las operaciones relacionales sirven para comparar valores. Sus operandos son cualquier cosa que pueda ser comparada, y sus resultados siempre son valores lógicos.  
+    - Las operaciones relacionales sirven para @color[green](comparar valores). Sus operandos son cualquier cosa que pueda ser comparada, y sus resultados siempre son valores lógicos.  
 
 ---
 ### @color[brown](1.1 Conceptos básicos)
@@ -169,18 +169,18 @@
 ---
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Diagrama de flujo)
-- Es la representación gráfica del algoritmo o proceso utilizando símbolos con significados definidos que representan los pasos del algoritmo, y representan el flujo de ejecución mediante flechas que conectan los puntos de inicio y de fin de proceso.
+- Es la @color[green](representación gráfica) del algoritmo o proceso utilizando símbolos con significados definidos que representan los pasos del algoritmo, y representan el flujo de ejecución mediante flechas que conectan los puntos de inicio y de fin de proceso.
 
 ---
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Seudocódigo)
-- Es una descripción informal1 de alto nivel de un algoritmo informático de programación, compacto e informal, que utiliza las convenciones estructurales de un lenguaje de programación verdadero.
+- Es una @color[green](descripción informal) de alto nivel de un algoritmo informático de programación, compacto e informal, que utiliza las convenciones estructurales de un lenguaje de programación verdadero.
 
 ---
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Lenguaje de programación)
 @ul
-- Es un lenguaje diseñado para describir el conjunto de acciones consecutivas que una computadora debe ejecutar.
+- Es un lenguaje diseñado para @color[green](describir el conjunto de acciones) consecutivas que una computadora debe ejecutar.
 @ulend
 
 ---
