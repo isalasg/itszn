@@ -18,15 +18,46 @@
 ### @color[brown](1.1 Conceptos de TSP)
 #### @color[orange](1.1.1 Definición)
 - Team Software Process (TSP) guides engineering teams that are @color[green](developing software-intensive products). Using TSP helps organizations establish a mature and disciplined engineering practice that produces @color[green](secure, reliable software in less time and at lower costs).
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.1 Definición)
 - TSP has been applied in small and large organizations in a variety of domains with similar results on first use, including
     - @color[green](productivity improvements) of 25% or more
     - @color[green](reductions in cost and schedule) variance to less than +/- 10%
     - @color[green](testing costs and schedule reductions) of up to 80%
 
 ---
-### @color[brown](1.1 Conceptos básicos)
-#### @color[orange](Algoritmo -cont-)
-- Una receta de cocina es un algoritmo; si bien podríamos cuestionar que algunos pasos son ambiguos (¿cuánto es «una pizca de sal»? ¿qué significa «agregar a gusto»?), en general las instrucciones están lo suficientemente @color[green](bien definidas) para que uno las pueda seguir sin problemas.  
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.1 Definición)
+- Software underlies advances in many areas, including medicine, science, weapons systems, and commerce. Software technology has advanced at an incredible pace, but the ability to manage software development and the quality of the software produced has not kept pace.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.1 Definición)
+- The software industry is the only high-tech industry that relies on testing to address quality and reliability issues. This is a strategy that cannot work, as evidenced by increases in serious system failures and software security and safety issues.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.1 Definición)
+- TSP reduces the number of post-release defects by 80% or more, so systems
+produced with TSP are more reliable and less likely to have latent defects that lead to these serious concerns.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.1 Definición)
+- TSP is an operational, “how-to” implementation of the principles and best practices that the SEI has advocated since its inception. TSP also includes many concepts that have not been implemented in other engineering methods, including.
+    + self-directed team management 
+    + an integrated measurement framework
+
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.1 Definición)
+- continua...
+    + a comprehensive, pre-test quality management system
+    + a coaching model 
+    + a team-focused strategy for rapid deployment 
+    + a complete, operational process 
+    + supported by training and tools
 
 ---
 ### @color[brown](1.1 Conceptos básicos)
