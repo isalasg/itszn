@@ -5,13 +5,17 @@
 ---
 ### @color[brown](Contenido)
 @ol
-    1.1 Conceptos de TSP.  
-        1.1.1 Definición.  
-        1.1.2 Principios.  
-        1.1.3 Proceso.  
-    1.2 Lógica de PSP.  
-        1.2.1 ¿Por qué los proyectos fallan?.  
-        1.2.2 Creación de equipos TSP.  
+    1.1 Conceptos de TSP.
+    @ol
+        1.1.1 Definición.
+        1.1.2 Principios.
+        1.1.3 Proceso.
+    @olend
+    1.2 Lógica de PSP.
+    @ol
+        1.2.1 ¿Por qué los proyectos fallan?.
+        1.2.2 Creación de equipos TSP.
+    @oend
 @olend
 
 ---
