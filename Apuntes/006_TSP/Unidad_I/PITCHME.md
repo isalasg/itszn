@@ -50,6 +50,7 @@ produced with TSP are more reliable and less likely to have latent defects that 
     + self-directed team management 
     + an integrated measurement framework
 
+---
 ### @color[brown](1.1 Conceptos de TSP)
 #### @color[orange](1.1.1 Definición)
 - continua...
