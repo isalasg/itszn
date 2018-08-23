@@ -93,7 +93,7 @@
 ### @color[brown](1.1 Conceptos de TSP)
 #### @color[orange](1.1.2 Principios)
 - Practice self-management
-    + Knowledge workers are best enabled to do creative work when they manage themselves. This means that @color[green](individuals or teams) must be allowed to @color[green](negotiate their own commitments), @color[green](make their own plans), @color[green](follow their own chosen processes) for doing the work, @color[green](choose their own standards and methods) for ensuring good product quality, identify and mitigate risks to the work, maintain open and regular communication with other team members, management, and stakeholders, and take responsibility for meeting their planned goals and commitments.
+    + Knowledge workers are best enabled to do creative work when they manage themselves. This means that @color[green](individuals or teams) must be allowed to @color[green](negotiate their own commitments), @color[green](make their own plans), @color[green](follow their own chosen processes) for doing the work, @color[green](choose their own standards and methods) for ensuring good product quality.
 
 ---
 ### @color[brown](1.1 Conceptos de TSP)
@@ -106,6 +106,71 @@
 #### @color[orange](1.1.2 Principios)
 - Regard design as a fundamental element of quality work
     + A comprehensive and detailed @color[green](design) is one of the single @color[green](most effective defect-prevention techniques) available to developers. Even when the best implementation practices are used, the quality of the resultant products is only as good as the quality of the design methods used.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.3 Proceso)
+- Defined processes in TSP
+    + The TSP encompasses two types of defined processes.
+        * @color[green](Personal processes) are defined sets of steps or activities that guide @color[green](individuals) in doing @color[green](personal work).
+        * @color[green](Team processes) are sets of defined @color[green](steps that each team member follows) in the same way when performing the team’s work.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.3 Proceso)
+- TSP process phases
+    + The TSP process provides guidance and process examples; TSP teams define their own project processes during the team launch. This enables TSP teams to tailor their processes to the special needs of their projects, organizations, and teams. 
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.3 Proceso)
+- TSP process elements
+    + Process elements are components of a process. The TSP uses seven basic process elements: the five basic process elements found in PSP (scripts, forms, measures, checklists, and standards), plus specifications and guidelines.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.3 Proceso)
+- Basic data collection measures
+    + The PSP has four basic measures: @color[green](time), @color[green](size), @color[green](quality) (defects), and @color[green](schedule). These parameters are used for making estimates based on actual data (or PSP guidelines, in the absence of historical data) and for collecting data that can be used for making future estimates.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.3 Proceso)
+- Specifications
+    + Specifications are process elements that are used in TSP but not PSP. Specifications (such as the Project Status Report and the various Role Specifications) provide clear and unambiguous @color[green](descriptions of a product), artifact, or task, and the @color[green](criteria) by which the outputs should be @color[green](evaluated).
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.3 Proceso)
+- Guidelines
+    + Guidelines are process elements found in TSP that are used to outline the recommended @color[green](rules or strategies) that should be followed in determining a course of action.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.3 Proceso)
+- TSP time measures
+    + As in PSP, the TSP time measure is @color[green](minutes). Time is tracked while doing the work. The six basic components of time data are start time, start date, end time, end date, interrupt time, and delta time. 
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.3 Proceso)
+- TSP task hours
+    + Task hours is a measure of the actual time that team members spend on scheduled project tasks. The measure is calculated by subtracting the total interrupt time from the time elapsed between the start time and end time of a task, and is recorded on the TSP time log as delta time.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.3 Proceso)
+- Off-task time
+    + The time spent doing things other than planned project tasks generally is referred to as off-task time. It is not measured or tracked since it does not contribute to meeting the stated schedule goals. Off-task time includes time spent in management and administrative meetings, attending training classes, reading email, or any of the other essential activities that a team member must do.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.3 Proceso)
+- TSP quality measures
+    + The explicit TSP quality measures are the numbers of defects injected and removed by phase. Derived quality measures can be calculated once the team has a complete estimated plan or actual data for the size and time of all the products and phases for which quality measures are required. 
+
+
+
 
 
 
