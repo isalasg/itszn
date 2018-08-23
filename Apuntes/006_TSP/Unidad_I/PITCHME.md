@@ -40,20 +40,19 @@
 ---
 ### @color[brown](1.1 Conceptos de TSP)
 #### @color[orange](1.1.1 Definición)
-- TSP reduces the number of post-release defects by 80% or more, so systems
-produced with TSP are more reliable and less likely to have latent defects that lead to these serious concerns.
+- TSP @color[green](reduces) the number of post-release @color[green](defects by 80% or more), so systems produced with TSP are more reliable and less likely to have latent defects that lead to these serious concerns.
 
 ---
 ### @color[brown](1.1 Conceptos de TSP)
 #### @color[orange](1.1.1 Definición)
-- TSP is an operational, “how-to” implementation of the principles and best practices that the SEI has advocated since its inception. TSP also includes many concepts that have not been implemented in other engineering methods, including.
+- TSP is an operational, @color[green](“how-to”) implementation of the @color[green](principles and best practices) that the SEI has advocated since its inception. TSP also includes many concepts that have not been implemented in other engineering methods, including:
     + self-directed team management 
     + an integrated measurement framework
 
 ---
 ### @color[brown](1.1 Conceptos de TSP)
 #### @color[orange](1.1.1 Definición)
-- continua...
+- cont...
     + a comprehensive, pre-test quality management system
     + a coaching model 
     + a team-focused strategy for rapid deployment 
@@ -61,10 +60,56 @@ produced with TSP are more reliable and less likely to have latent defects that 
     + supported by training and tools
 
 ---
-### @color[brown](1.1 Conceptos básicos)
-#### @color[orange](Algoritmo -cont-)
-- La entrada de una receta son los ingredientes y algunos datos como: ¿para cuántas personas se cocinará? El proceso es la serie de pasos para manipular los ingredientes. La salida es el plato terminado.
-- En principio, si una receta está suficientemente bien explicada, podría permitir preparar un plato a alguien que no sepa nada de cocina.  
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.2 Principios)
+- Use structured processes
+    + Knowledge work is most effective when it is done using a @color[green](defined, structured process) with repeatable and measurable steps that provide workers with rapid feedback on the quality of the product and progress towards completion. 
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.2 Principios)
+- Establish a shared understanding
+    + Productive teamwork requires that the team have a shared understanding what the work entails and how it is to be done. @color[green](Each member) needs to have the @color[green](same understanding) of the team goals, team member’s roles, products or components to be produced, available resources and existing constraints, and measures of success.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.2 Principios)
+- Use proven techniques
+    + Knowledge work, whether done by individuals or teams, is most productive when it is based on @color[green](sound professional practices and proven techniques) as relevant to the desired outcome. TSP provides a framework and guidelines that are based on proven best practices for organizational oversight, team management, personal discipline, and process improvement at the individual, team, project, and enterprise levels.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.2 Principios)
+- Use data whenever and wherever possible
+    + @color[green](Plans, estimates, process improvement decisions, quality ratings), and all other aspects of the development process should be @color[green](based on data) whenever possible. To get useful data for future projects, data on current projects should be carefully and accurately gathered and recorded as close as possible to the actual time of the data generation.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.2 Principios)
+- Make realistic plans and commitments
+    + The only @color[green](realistic plans and commitments) are those that @color[green](are made by the individual)(s) responsible for meeting them: team plans and team commitments must be made by the teams who will do the work. Any commitment should be based on available data, realistic evaluation of available resources, the nature of the work, and the skills and abilities of the team.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.2 Principios)
+- Practice self-management
+    + Knowledge workers are best enabled to do creative work when they manage themselves. This means that @color[green](individuals or teams) must be allowed to @color[green](negotiate their own commitments), @color[green](make their own plans), @color[green](follow their own chosen processes) for doing the work, @color[green](choose their own standards and methods) for ensuring good product quality, identify and mitigate risks to the work, maintain open and regular communication with other team members, management, and stakeholders, and take responsibility for meeting their planned goals and commitments.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.2 Principios)
+- Focus on quality
+    + The primary focus of TSP team members is on @color[green](producing high quality components and products). Defective products are expensive because finding and fixing problems is both time-consuming and resource-intensive; the cost of time and resources increases exponentially when defects are discovered later rather than sooner in the process.
+
+---
+### @color[brown](1.1 Conceptos de TSP)
+#### @color[orange](1.1.2 Principios)
+- Regard design as a fundamental element of quality work
+    + A comprehensive and detailed @color[green](design) is one of the single @color[green](most effective defect-prevention techniques) available to developers. Even when the best implementation practices are used, the quality of the resultant products is only as good as the quality of the design methods used.
+
+
+
+
 
 ---
 ### @color[brown](1.1 Conceptos básicos)
@@ -223,4 +268,4 @@ produced with TSP are more reliable and less likely to have latent defects that 
 
 ---
 ### @color[brown](Bibliografía)
-- UTFSM. (s.f.). Programación UTFSM. Obtenido de http://progra.usm.cl/apunte/materia/index.html
+- TSP Overview. Carnegie Mellon University. Software Engineering Institute. Obtenido de: https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=72816
