@@ -125,7 +125,7 @@
 ### @color[brown](1.1 Conceptos de TSP)
 #### @color[orange](1.1.3 Proceso)
 - TSP process elements
-    + Process elements are components of a process. The TSP uses seven basic process elements: the five basic process elements found in PSP (scripts, forms, measures, checklists, and standards), plus specifications and guidelines.
+    + Process elements are components of a process. The TSP uses seven basic process elements: the five @color[green](basic process elements) found in PSP (scripts, forms, measures, checklists, and standards), @color[green](plus specifications and guidelines).
 
 ---
 ### @color[brown](1.1 Conceptos de TSP)
@@ -155,61 +155,61 @@
 ### @color[brown](1.1 Conceptos de TSP)
 #### @color[orange](1.1.3 Proceso)
 - TSP task hours
-    + Task hours is a measure of the actual time that team members spend on scheduled project tasks. The measure is calculated by subtracting the total interrupt time from the time elapsed between the start time and end time of a task, and is recorded on the TSP time log as delta time.
+    + Task hours is a measure of the @color[green](actual time) that team members @color[green](spend on scheduled project tasks). The measure is calculated by subtracting the total interrupt time from the time elapsed between the start time and end time of a task, and is recorded on the TSP time log as delta time.
 
 ---
 ### @color[brown](1.1 Conceptos de TSP)
 #### @color[orange](1.1.3 Proceso)
 - Off-task time
-    + The time spent doing things other than planned project tasks generally is referred to as off-task time. It is not measured or tracked since it does not contribute to meeting the stated schedule goals. Off-task time includes time spent in management and administrative meetings, attending training classes, reading email, or any of the other essential activities that a team member must do.
+    + The @color[green](time spent doing things other than planned project tasks) generally is referred to as off-task time. It is not measured or tracked since it does not contribute to meeting the stated schedule goals. Off-task time includes time spent in management and administrative meetings, attending training classes, reading email, or any of the other essential activities that a team member must do.
 
 ---
 ### @color[brown](1.1 Conceptos de TSP)
 #### @color[orange](1.1.3 Proceso)
 - TSP quality measures
-    + The explicit TSP quality measures are the numbers of defects injected and removed by phase. Derived quality measures can be calculated once the team has a complete estimated plan or actual data for the size and time of all the products and phases for which quality measures are required. 
+    + The explicit TSP quality measures are the numbers of @color[green](defects injected and removed by phase). Derived quality measures can be calculated once the team has a complete estimated plan or actual data for the size and time of all the products and phases for which quality measures are required. 
 
 ---
 ### @color[brown](1.2 Lógica de TSP)
 - When software projects fail, it is generaly because of teamwork problems and no technical issues.
-- One significant "people" problem is the inhability of software teams to handle presure, especially the presure to meet an agresive developmet schedule. Often, teams respond to this pressure by taking shortcuts, using poor methods, or gambling o a new (to them) language, tool, or technique.
+- One significant "people" @color[green](problem) is the inhability of software teams to @color[green](handle presure), especially the presure to meet an agresive developmet schedule. Often, teams respond to this pressure by taking shortcuts, using poor methods, or gambling o a new (to them) language, tool, or technique.
 
 ---
 ### @color[brown](1.2 Lógica de TSP)
 #### @color[orange](1.2.1 ¿Por qué los proyectos fallan?)
 - Common team problems
-    + Ineffective Leadership. Without effective leadership, teams generally have trouble sticking to ther plans and maintaining personal discipline.
-    + Failure to Compromise or Cooperate. Occasionally one or more team members may no be willing or able to work cooperatively with team.
+    + __Ineffective Leadership__. Without effective leadership, teams generally have trouble sticking to ther plans and maintaining personal discipline.
+    + __Failure to Compromise or Cooperate__. Occasionally one or more team members may @color[green](no be willing or able to work cooperatively) with team.
 
 ---
 ### @color[brown](1.2 Lógica de TSP)
 #### @color[orange](1.2.1 ¿Por qué los proyectos fallan?)
 - Common team problems (cont...)
-    + Lack of Participation. Team members have different skills and abilities as well as different motivations, energy, and levels of commitment.
-    + Procastination and Lack of Confidence. Some teams do not set deadlines or establish goals an milestones. Others set deadlines they never meet. Such teams generally don't track performance and often fail to make decisions in a timely or logical way.
+    + __Lack of Participation__. Team members have @color[green](different skills and abilities) as well as different motivations, energy, and levels of commitment.
+    + __Procastination and Lack of Confidence__. Some teams do not set deadlines or establish goals an milestones. Others set deadlines they never meet. Such teams generally don't track performance and often fail to make decisions in a timely or logical way.
 
 ---
 ### @color[brown](1.2 Lógica de TSP)
 #### @color[orange](1.2.1 ¿Por qué los proyectos fallan?)
 - Common team problems (cont...)
-    + Poor Quality. Quality problems can come from many sources. Examples are superficial requirements inspection, a poorly documented design, or sloppy implementation practices. When teams do not use personal reviews or team inspections, they usualy have quality problems, resulting in extensive testing, delayed schedules, long hours, and unsatisfactory final product.
+    + __Poor Quality__. Quality problems can come from many sources. Examples are @color[green](superficial requirements inspection), a @color[green](poorly documented design), or @color[green](sloppy implementation practices). When teams do not use personal reviews or team inspections, they usualy have quality problems, resulting in extensive testing, delayed schedules, long hours, and unsatisfactory final product.
 
 ---
 ### @color[brown](1.2 Lógica de TSP)
 #### @color[orange](1.2.1 ¿Por qué los proyectos fallan?)
 - Common team problems (cont...)
-    + Function Creep. During product design and implementation, engineers often see ways to improve their product. These well-intentioned modifications are hard to control because they originate from a legitimate desire to produce a better result.
+    + __Function Creep__. During product design and implementation, engineers often @color[green](see ways to improve) their product. These well-intentioned modifications are @color[green](hard to control) because they originate from a legitimate desire to produce a better result.
 
 ---
 ### @color[brown](1.2 Lógica de TSP)
 #### @color[orange](1.2.1 ¿Por qué los proyectos fallan?)
 - Common team problems (cont...)
-    + Ineffective Peer Evaluation. Experience has shown that peer evaluation can be invaluable for student teams. However, students are often reluctant to grade their teammates and rarely do so with complete candor.
+    + __Ineffective Peer Evaluation__. Experience has shown that peer evaluation can be invaluable for student teams. However, @color[green](students are often reluctant to grade their teammates) and rarely do so with complete candor.
 
 ---
 ### @color[brown](1.2 Lógica de TSP)
 #### @color[orange](1.2.2 Creación de equipos TSP)
-- To build effective teams, you need more than just the right kinds of tasks and working conditions. The team must have an important job to do and must be in an enviroment than supports teamwork. The team must face an aggressive challenge and must be encouraged to plan and manage its own tasks. These needs are met by providing the team with four additional kinds of support: cohesion, goals, feedback and a common working framework.
+- To build effective teams, you need more than just the right kinds of tasks and working conditions. The team must have an important job to do and must be in an enviroment than supports teamwork. The team must face an aggressive challenge and must be encouraged to plan and manage its own tasks. These needs are met by providing the team with four additional kinds of support: @color[green](cohesion), @color[green](goals), @color[green](feedback) and a @color[green](common working framework).
 
 ---
 ### @color[brown](Bibliografía)
