@@ -120,22 +120,27 @@ enfocándose en el "@color[green](qué hace)" e ignorando el "@color[green](cóm
 - cont...
     + O(1): Complejidad constante. Cuando las instrucciones se ejecutan una vez. 
     + O(log n): Complejidad logarítmica. Esta suele aparecer en determinados algoritmos con iteración o recursión no estructural, ejemplo la búsqueda binaria. 
+
+---
+### @color[brown](1.5 Análisis de algoritmos)
+#### @color[orange](1.5.3 Eficiencia de los algoritmos)
+- cont...
     + O(n): Complejidad lineal. Es una complejidad buena y también muy usual. Aparece en la evaluación de bucles simples siempre que la complejidad de las instrucciones interiores sea constante.
+    + O(n log n): Complejidad cuasi-lineal. Se encuentra en algoritmos de tipo divide y vencerás como por ejemplo en el método de ordenación quicksort y se considera una buena complejidad. Si n se duplica, el tiempo de ejecución es ligeramente mayor del doble.
 
 ---
 ### @color[brown](1.5 Análisis de algoritmos)
 #### @color[orange](1.5.3 Eficiencia de los algoritmos)
 - cont...
-    +  O(n log n): Complejidad cuasi-lineal. Se encuentra en algoritmos de tipo divide y vencerás como por ejemplo en el método de ordenación quicksort y se considera una buena complejidad. Si n se duplica, el tiempo de ejecución es ligeramente mayor del doble.
-    +  O(n2): Complejidad cuadrática. Aparece en bucles o ciclos doblemente anidados. Si n se duplica, el tiempo de ejecución aumenta cuatro veces.
-    +  O(n3): Complejidad cúbica. Suele darse en bucles con triple anidación. Si n se duplica, el tiempo de ejecución se multiplica por ocho. Para un valor grande de n empieza a crecer dramáticamente. 
+    + O(n^2^): Complejidad cuadrática. Aparece en bucles o ciclos doblemente anidados. Si n se duplica, el tiempo de ejecución aumenta cuatro veces.
+    + O(n^3^): Complejidad cúbica. Suele darse en bucles con triple anidación. Si n se duplica, el tiempo de ejecución se multiplica por ocho. Para un valor grande de n empieza a crecer dramáticamente.
 
 ---
 ### @color[brown](1.5 Análisis de algoritmos)
 #### @color[orange](1.5.3 Eficiencia de los algoritmos)
 - cont...
-    +  O(na): Complejidad polinómica (a > 3). Si a crece, la complejidad del programa es bastante mala.
-    +  O(2n): Complejidad exponencial. No suelen ser muy útiles en la práctica por el elevadísimo tiempo de ejecución. Se dan en subprogramas recursivos quecontengan dos o más llamadas internas.
+    + O(n^a^): Complejidad polinómica (a > 3). Si a crece, la complejidad del programa es bastante mala.
+    + O(2^n^): Complejidad exponencial. No suelen ser muy útiles en la práctica por el elevadísimo tiempo de ejecución. Se dan en subprogramas recursivos quecontengan dos o más llamadas internas.
 
 ---
 ### @color[brown](Bibliografía)
