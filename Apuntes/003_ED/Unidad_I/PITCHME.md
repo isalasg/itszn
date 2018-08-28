@@ -139,8 +139,8 @@ enfocándose en el "@color[green](qué hace)" e ignorando el "@color[green](cóm
 ### @color[brown](1.5 Análisis de algoritmos)
 #### @color[orange](1.5.3 Eficiencia de los algoritmos)
 - cont...
-    + O(n^a^): Complejidad polinómica (a > 3). Si a crece, la complejidad del programa es bastante mala.
-    + O(2^n^): Complejidad exponencial. No suelen ser muy útiles en la práctica por el elevadísimo tiempo de ejecución. Se dan en subprogramas recursivos quecontengan dos o más llamadas internas.
+    + O\(n^a^\): Complejidad polinómica (a > 3). Si a crece, la complejidad del programa es bastante mala.
+    + O\(2^n^\): Complejidad exponencial. No suelen ser muy útiles en la práctica por el elevadísimo tiempo de ejecución. Se dan en subprogramas recursivos quecontengan dos o más llamadas internas.
 
 ---
 ### @color[brown](Bibliografía)
