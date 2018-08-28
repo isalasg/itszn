@@ -9,12 +9,12 @@
 1.2 Tipos de datos abstractos (TDA)   
 1.3 Ejemplos de TDA’s   
 1.4 Manejo de memoria   
-    1.4.1 Memoria estática   
-    1.4.2 Memoria dinámica   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.1 Memoria estática   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.2 Memoria dinámica   
 1.5 Análisis de algoritmos   
-    1.5.1 Complejidad en el tiempo   
-    1.5.2 Complejidad en el espacio   
-    1.5.3 Eficiencia de los algoritmos
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.1 Complejidad en el tiempo   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.2 Complejidad en el espacio   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.3 Eficiencia de los algoritmos
 @olend
 
 ---
