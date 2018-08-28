@@ -85,9 +85,9 @@ enfocándose en el "@color[green](qué hace)" e ignorando el "@color[green](cóm
 ### @color[brown](1.5 Análisis de algoritmos)
 #### @color[orange](1.5.1 Complejidad en el tiempo)
 - Por ejemplo:
->S1;   
->for(x = 0; x < N; x++)   
->S2;   
+>@color[blue](S1;)   
+>@color[blue](for(x = 0; x < N; x++))   
+>@color[blue](S2;)   
 - Demanda: T(N) = t1 + t2 * N 
 - Donde t1 es el tiempo que lleva ejecutar la serie S1 de sentencias, y t2 es el que lleva la serie S2.
 
