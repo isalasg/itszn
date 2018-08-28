@@ -71,7 +71,7 @@ enfocándose en el "@color[green](qué hace)" e ignorando el "@color[green](cóm
 
 ---
 ### @color[brown](1.5 Análisis de algoritmos)
-- Un algoritmo será mas eficiente comparado con otro, siempre que consuma menos recursos, como el tiempo y espacio de memoria necesarios para ejecutarlo. La eficiencia de un algoritmo puede ser cuantificada con las siguientes medidas de complejidad:
+- Un algoritmo será mas @color[green](eficiente) comparado con otro, siempre que @color[green](consuma menos recursos), como el tiempo y espacio de memoria necesarios para ejecutarlo. La eficiencia de un algoritmo puede ser cuantificada con las siguientes medidas de complejidad:
     + Complejidad Temporal o Tiempo de ejecución.
     + Complejidad Espacial
 
@@ -94,7 +94,7 @@ enfocándose en el "@color[green](qué hace)" e ignorando el "@color[green](cóm
 ---
 ### @color[brown](1.5 Análisis de algoritmos)
 #### @color[orange](1.5.2 Complejidad en el espacio)
-- Memoria que utiliza un programa para su ejecución, la eficiencia en memoria de un algoritmo indica la cantidad de espacio requerido para ejecutar el algoritmo; es decir, el espacio en memoria que ocupan todas las variables propias al algoritmo. Para calcular la memoria estática de un algoritmo se suma la memoria que ocupan las variables declaradas en el algoritmo. Para el caso de la memoria dinámica, el cálculo no es tan simple ya que, este depende de cada ejecución del algoritmo.
+- Memoria que utiliza un programa para su ejecución, la eficiencia en memoria de un algoritmo indica la cantidad de @color[green](espacio requerido) para ejecutar el algoritmo; es decir, el espacio @color[green](en memoria) que ocupan todas las variables propias al algoritmo. Para calcular la memoria estática de un algoritmo se suma la memoria que ocupan las variables declaradas en el algoritmo. Para el caso de la memoria dinámica, el cálculo no es tan simple ya que, este depende de cada ejecución del algoritmo.
 
 ---
 ### @color[brown](1.5 Análisis de algoritmos)
@@ -118,29 +118,29 @@ enfocándose en el "@color[green](qué hace)" e ignorando el "@color[green](cóm
 ### @color[brown](1.5 Análisis de algoritmos)
 #### @color[orange](1.5.3 Eficiencia de los algoritmos)
 - cont...
-    + O(1): Complejidad constante. Cuando las instrucciones se ejecutan una vez. 
-    + O(log n): Complejidad logarítmica. Esta suele aparecer en determinados algoritmos con iteración o recursión no estructural, ejemplo la búsqueda binaria. 
+    + O(1): Complejidad constante. Cuando las instrucciones @color[green](se ejecutan una vez). 
+    + O(log n): Complejidad logarítmica. Esta suele aparecer en determinados algoritmos con @color[green](iteración o recursión no estructural), ejemplo la @color[blue](búsqueda binaria). 
 
 ---
 ### @color[brown](1.5 Análisis de algoritmos)
 #### @color[orange](1.5.3 Eficiencia de los algoritmos)
 - cont...
-    + O(n): Complejidad lineal. Es una complejidad buena y también muy usual. Aparece en la evaluación de bucles simples siempre que la complejidad de las instrucciones interiores sea constante.
-    + O(n log n): Complejidad cuasi-lineal. Se encuentra en algoritmos de tipo divide y vencerás como por ejemplo en el método de ordenación quicksort y se considera una buena complejidad. Si n se duplica, el tiempo de ejecución es ligeramente mayor del doble.
+    + O(n): Complejidad lineal. Es una complejidad buena y también muy usual. Aparece en la evaluación de @color[blue](bucles simples) siempre que la complejidad de las @color[green](instrucciones interiores sea constante).
+    + O(n log n): Complejidad cuasi-lineal. Se encuentra en algoritmos de tipo @color[green](divide y vencerás) como por ejemplo en el método de ordenación @color[blue](quicksort) y se considera una buena complejidad. Si n se duplica, el tiempo de ejecución es ligeramente mayor del doble.
 
 ---
 ### @color[brown](1.5 Análisis de algoritmos)
 #### @color[orange](1.5.3 Eficiencia de los algoritmos)
 - cont...
-    + O(n<sub>2</sub>): Complejidad cuadrática. Aparece en bucles o ciclos doblemente anidados. Si n se duplica, el tiempo de ejecución aumenta cuatro veces.
-    + O(n<sub>3</sub>): Complejidad cúbica. Suele darse en bucles con triple anidación. Si n se duplica, el tiempo de ejecución se multiplica por ocho. Para un valor grande de n empieza a crecer dramáticamente.
+    + O(n<sup>2</sup>): Complejidad cuadrática. Aparece en @color[green](bucles o ciclos doblemente anidados). Si n se duplica, el tiempo de ejecución aumenta cuatro veces.
+    + O(n<sup>3</sup>): Complejidad cúbica. Suele darse en @color[green](bucles con triple anidación). Si n se duplica, el tiempo de ejecución se multiplica por ocho. Para un valor grande de n empieza a crecer dramáticamente.
 
 ---
 ### @color[brown](1.5 Análisis de algoritmos)
 #### @color[orange](1.5.3 Eficiencia de los algoritmos)
 - cont...
-    + O(n<sub>a</sub>): Complejidad polinómica (a > 3). Si a crece, la complejidad del programa es bastante mala.
-    + O(2<sub>n</sub>): Complejidad exponencial. No suelen ser muy útiles en la práctica por el elevadísimo tiempo de ejecución. Se dan en subprogramas recursivos quecontengan dos o más llamadas internas.
+    + O(n<sup>a</sup>): Complejidad polinómica (a > 3). Si a crece, la complejidad del programa es bastante mala.
+    + O(2<sup>n</sup>): Complejidad exponencial. No suelen ser muy útiles en la práctica por el elevadísimo tiempo de ejecución. Se dan en subprogramas @color[green](recursivos quecontengan dos o más llamadas internas).
 
 ---
 ### @color[brown](Bibliografía)
