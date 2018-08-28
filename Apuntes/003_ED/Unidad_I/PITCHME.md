@@ -88,10 +88,56 @@ enfocándose en el "@color[green](qué hace)" e ignorando el "@color[green](cóm
 >S1;   
 >for(x = 0; x < N; x++)   
 >S2;   
-- Demanda: @[1](T(N) = t1 + t2 * N)
+- Demanda: T(N) = t1 + t2 * N
 - Donde t1 es el tiempo que lleva ejecutar la serie S1 de sentencias, y t2 es el que lleva la serie S2.
 
+---
+### @color[brown](1.5 Análisis de algoritmos)
+#### @color[orange](1.5.2 Complejidad en el espacio)
+- Memoria que utiliza un programa para su ejecución, la eficiencia en memoria de un algoritmo indica la cantidad de espacio requerido para ejecutar el algoritmo; es decir, el espacio en memoria que ocupan todas las variables propias al algoritmo. Para calcular la memoria estática de un algoritmo se suma la memoria que ocupan las variables declaradas en el algoritmo. Para el caso de la memoria dinámica, el cálculo no es tan simple ya que, este depende de cada ejecución del algoritmo.
+
+---
+### @color[brown](1.5 Análisis de algoritmos)
+#### @color[orange](1.5.3 Eficiencia de los algoritmos)
+- El análisis de la eficiencia algorítmica nos lleva a estudiar el comportamiento de los algoritmos frente a condiciones extremas. Matemáticamente hablando, cuando N tiende al infinito ∞, es un comportamiento asintótico.
+- Sean g(n) diferentes funciones que determinan el uso de recursos, pudiendo existir infinidad de funciones g.
+
+---
+### @color[brown](1.5 Análisis de algoritmos)
+#### @color[orange](1.5.3 Eficiencia de los algoritmos)
+- Estas funciones g serán congregadas en familias, usando como criterio de agrupación su comportamiento asintótico, este comportamiento asintótico es similar cuando los argumentos toman valores muy grandes.
+- Una familia de funciones que comparten un mismo comportamiento asintótico será llamada un Orden de Complejidad. Estas familias se designan con O( ).
+
+---
+### @color[brown](1.5 Análisis de algoritmos)
+#### @color[orange](1.5.3 Eficiencia de los algoritmos)
+- La familia O(f(n)) define un Orden de Complejidad. Elegiremos como representante de este Orden de Complejidad a la función f(n) más sencilla perteneciente a esta familia.
+- Las funciones de complejidad algorítmica más habituales en las cuales el único factor del que dependen es el tamaño de la muestra de entrada n, ordenadas de mayor a menor eficiencia son:
+
+---
+### @color[brown](1.5 Análisis de algoritmos)
+#### @color[orange](1.5.3 Eficiencia de los algoritmos)
+- cont...
+    + O(1): Complejidad constante. Cuando las instrucciones se ejecutan una vez. 
+    + O(log n): Complejidad logarítmica. Esta suele aparecer en determinados algoritmos con iteración o recursión no estructural, ejemplo la búsqueda binaria. 
+    + O(n): Complejidad lineal. Es una complejidad buena y también muy usual. Aparece en la evaluación de bucles simples siempre que la complejidad de las instrucciones interiores sea constante.
+
+---
+### @color[brown](1.5 Análisis de algoritmos)
+#### @color[orange](1.5.3 Eficiencia de los algoritmos)
+- cont...
+    +  O(n log n): Complejidad cuasi-lineal. Se encuentra en algoritmos de tipo divide y vencerás como por ejemplo en el método de ordenación quicksort y se considera una buena complejidad. Si n se duplica, el tiempo de ejecución es ligeramente mayor del doble.
+    +  O(n2): Complejidad cuadrática. Aparece en bucles o ciclos doblemente anidados. Si n se duplica, el tiempo de ejecución aumenta cuatro veces.
+    +  O(n3): Complejidad cúbica. Suele darse en bucles con triple anidación. Si n se duplica, el tiempo de ejecución se multiplica por ocho. Para un valor grande de n empieza a crecer dramáticamente. 
+
+---
+### @color[brown](1.5 Análisis de algoritmos)
+#### @color[orange](1.5.3 Eficiencia de los algoritmos)
+- cont...
+    +  O(na): Complejidad polinómica (a > 3). Si a crece, la complejidad del programa es bastante mala.
+    +  O(2n): Complejidad exponencial. No suelen ser muy útiles en la práctica por el elevadísimo tiempo de ejecución. Se dan en subprogramas recursivos quecontengan dos o más llamadas internas.
 
 ---
 ### @color[brown](Bibliografía)
 - Tipos y estructuras de datos. Ariadna Fuentes, Francisco Grimaldo. Universidad de Valencia. Obtenido de: https://www.uv.es/afuertes/Informatica/ficheros/Tema4-Castellano.pdf
+- Algoritmos y Estructura de Datos I. Ing. Rolf Pinto López. 
