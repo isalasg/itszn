@@ -88,7 +88,7 @@ enfocándose en el "@color[green](qué hace)" e ignorando el "@color[green](cóm
 >S1;   
 >for(x = 0; x < N; x++)   
 >S2;   
-- Demanda: @color[blue](T(N) = t1 + t2 * N 
+- Demanda: @[1](T(N) = t1 + t2 * N)
 - Donde t1 es el tiempo que lleva ejecutar la serie S1 de sentencias, y t2 es el que lleva la serie S2.
 
 
