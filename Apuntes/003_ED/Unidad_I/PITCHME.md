@@ -117,21 +117,18 @@ enfocándose en el "@color[green](qué hace)" e ignorando el "@color[green](cóm
 ---
 ### @color[brown](1.5 Análisis de algoritmos)
 #### @color[orange](1.5.3 Eficiencia de los algoritmos)
-- cont...
     + O(1): Complejidad constante. Cuando las instrucciones se ejecutan una vez. 
     + O(log n): Complejidad logarítmica. Esta suele aparecer en determinados algoritmos con iteración o recursión no estructural, ejemplo la búsqueda binaria. 
 
 ---
 ### @color[brown](1.5 Análisis de algoritmos)
 #### @color[orange](1.5.3 Eficiencia de los algoritmos)
-- cont...
     + O(n): Complejidad lineal. Es una complejidad buena y también muy usual. Aparece en la evaluación de bucles simples siempre que la complejidad de las instrucciones interiores sea constante.
     + O(n log n): Complejidad cuasi-lineal. Se encuentra en algoritmos de tipo divide y vencerás como por ejemplo en el método de ordenación quicksort y se considera una buena complejidad. Si n se duplica, el tiempo de ejecución es ligeramente mayor del doble.
 
 ---
 ### @color[brown](1.5 Análisis de algoritmos)
 #### @color[orange](1.5.3 Eficiencia de los algoritmos)
-- cont...
     + O(n^2^): Complejidad cuadrática. Aparece en bucles o ciclos doblemente anidados. Si n se duplica, el tiempo de ejecución aumenta cuatro veces.
     + O(n^3^): Complejidad cúbica. Suele darse en bucles con triple anidación. Si n se duplica, el tiempo de ejecución se multiplica por ocho. Para un valor grande de n empieza a crecer dramáticamente.
 
