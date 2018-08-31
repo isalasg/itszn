@@ -6,11 +6,11 @@
 ---
 ### @color[brown](Contenido)
 @ol
-2.1. Líder del equipo
-2.2. Gerente de desarrollo
-2.3. Gerente de planeación
-2.4. Gerente de calidad y procesos
-2.5. Gerente de soporte
+    2.1. Líder del equipo
+    2.2. Gerente de desarrollo
+    2.3. Gerente de planeación
+    2.4. Gerente de calidad y procesos
+    2.5. Gerente de soporte
 @olend
 
 ---
@@ -59,6 +59,7 @@
 
 ---
 ### @color[brown](2.1. Líder del equipo)
+#### @color[orange](Team leader)
 - The TSP team has the overall responsibility to higher management for the team’s success. Therefore, the leader must provide the enthusiasm, energy, and drive that will convince the team members to join the leader in achieving a set of common goals. To accomplish this end, the TSP team leader must carefully balance several roles and numerous responsibilities to both the TSP team members and the organization’s management.
 
 ---
@@ -131,13 +132,18 @@
     + defining and planning the system tests during the design phase
     + defining and planning the integration tests during the implementation phase
     + supports the team members with planning and executing all test activities
-    + analyzing data from every test phase to identify defect-prone product elements and working with the quality manager to identify areas that need reinspection or retest
 
 ---
 ### @color[brown](2.2. Gerente de desarrollo)
 #### @color[orange](The test manager role)
 - cont...
+    + analyzing data from every test phase to identify defect-prone product elements and working with the quality manager to identify areas that need reinspection or retest    
     + maintaining a defect density map of all product components and the overall system for every test phase
+
+---
+### @color[brown](2.2. Gerente de desarrollo)
+#### @color[orange](The test manager role)
+- cont...
     + leading the team in maintaining a focus on testing throughout the entire development process
     + tracking and reporting weekly to the team on the status of the team’s test planning, development, and execution work 
 
@@ -166,28 +172,28 @@
 #### @color[orange](The process manager role)
 - The process manager’s role is to ensure that the team has defined processes available for major development, management, and team functional activities. Among the process manager’s specific duties are
     + ensuring that the team always follows a defined and documented process
-    + leading the team in defining or developing the processes that the team needs and then ensuring that the processes are used to guide the team’s work
 
 ---
 ### @color[brown](2.4. Gerente de calidad y procesos)
 #### @color[orange](The process manager role)
 - cont...
+    + leading the team in defining or developing the processes that the team needs and then ensuring that the processes are used to guide the team’s work    
     + assisting the team in identifying areas in which team members are having problems in following the defined process and ensuring that process problems are quickly resolved
+
+---
+### @color[brown](2.4. Gerente de calidad y procesos)
+#### @color[orange](The process manager role)
+- cont...
     + ensuring that all team members report their process data in a timely way
     + reporting weekly to the team on the status of all team process development and analysis work
-
----
-### @color[brown](2.4. Gerente de calidad y procesos)
-#### @color[orange](The process manager role)
-- cont...
     + alerting the team and team leader when process problems need their attention
     + making sure that the project notebook is complete and up to date
-    + producing the process section of the project report during the phase or cycle, and project postmortems
 
 ---
 ### @color[brown](2.4. Gerente de calidad y procesos)
 #### @color[orange](The process manager role)
 - cont...
+    + producing the process section of the project report during the phase or cycle, and project postmortems    
     + gathering and analyzing process improvement proposals (PIPs), determining any process changes required to instantiate the PIPs, making recommendations on how or whether to make the changes, and overseeing the implementation of PIPs that the team decides to enact
 
 ---
@@ -239,6 +245,11 @@
     + managing the team’s configuration management system and maintaining the master copies of all controlled items and versions
     + leading the configuration control board
     + maintaining a list of potentially reusable parts and alerting the team to reuse opportunities
+
+---
+### @color[brown](2.5. Gerente de soporte)
+#### @color[orange](The support manager role)
+- cont...
     + tracking and reporting weekly to the team on the status of all support procurement and development work and on reuse status and opportunities 
 
 ---
