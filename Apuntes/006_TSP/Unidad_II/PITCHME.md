@@ -6,27 +6,27 @@
 ---
 ### @color[brown](Contenido)
 @ol
-    2.1. Líder del equipo
-    2.2. Gerente de desarrollo
-    2.3. Gerente de planeación
-    2.4. Gerente de calidad y procesos
+    2.1. Líder del equipo   
+    2.2. Gerente de desarrollo   
+    2.3. Gerente de planeación   
+    2.4. Gerente de calidad y procesos   
     2.5. Gerente de soporte
 @olend
 
 ---
 ### @color[brown](Introducción)
 #### @color[orange](TSP team roles)
-- A role can be defined as the rights, obligations, and expected behavior patterns associated with a particular social status. The TSP roles describe what each person on the team is expected to do and transform team members from followers to co-managers of the project. The TSP roles cover all aspects of team management from customer interface issues to testing, and from process management to quality control.
+- A role can be defined as the @color[green](rights, obligations, and expected behavior patterns) associated with a particular social status. The TSP roles describe what each person on the team is expected to do and transform team members from followers to co-managers of the project. The TSP roles cover all aspects of team management from customer interface issues to testing, and from process management to quality control.
 
 ---
 ### @color[brown](Introducción)
 #### @color[orange](TSP team roles)
-- There are two types of team member roles in the TSP: the general team member role, and eight (or more) designated manager roles. Each member of a TSP team is expected to fulfill the general team member role responsibilities in addition to the duties of one or more manager roles. 
+- There are @color[green](two types) of team member roles in the TSP: @color[green](the general team member role), and eight (or more) @color[green](designated manager roles). Each member of a TSP team is expected to fulfill the general team member role responsibilities in addition to the duties of one or more manager roles. 
 
 ---
 ### @color[brown](Introducción)
 #### @color[orange](The TSP general team member role)
-- All team members are expected to follow a disciplined personal process to plan, manage, and report on the tasks done to carry out the team’s work, and they must meet their personal commitment to produce quality products. They are also expected to keep the team leader and team members informed of their project status. 
+- All team members are expected @color[green](to follow a disciplined personal process) to plan, manage, and report on the tasks done to carry out the team’s work, and they must meet their personal commitment to produce quality products. They are also expected to keep the team leader and team members informed of their project status. 
 
 ---
 ### @color[brown](Introducción)
@@ -60,11 +60,11 @@
 ---
 ### @color[brown](2.1. Líder del equipo)
 #### @color[orange](Team leader)
-- The TSP team has the overall responsibility to higher management for the team’s success. Therefore, the leader must provide the enthusiasm, energy, and drive that will convince the team members to join the leader in achieving a set of common goals. To accomplish this end, the TSP team leader must carefully balance several roles and numerous responsibilities to both the TSP team members and the organization’s management.
+- The leader must provide @color[green](the enthusiasm, energy, and drive that will convince) the team members to join the leader in achieving a set of common goals. To accomplish this end, the TSP team leader must carefully balance several roles and numerous responsibilities to both the TSP team members and the organization’s management.
 
 ---
 ### @color[brown](2.1. Líder del equipo)
-- The TSP team leader must simultaneously fulfill several different types of roles, each of which has its own unique blend of responsibilities and priorities. The TSP team leader must function as:
+- The TSP team leader @color[green](must simultaneously fulfill several different types of roles), each of which has its own unique blend of responsibilities and priorities. The TSP team leader must function as:
     - the designated manager of the team (the team leader’s primary role)
     - management’s representative to the team
     - the team’s representative to management
@@ -74,7 +74,7 @@
 ---
 ### @color[brown](2.2. Gerente de desarrollo)
 #### @color[orange](The design manager role)
-- The design manager’s role is to lead the team in producing a superior design. Among the design manager’s specific responsibilities are
+- The design manager’s role is to lead the team in @color[green](producing a superior design). Among the design manager’s specific responsibilities are
     + leading the team in producing, refining, and verifying the product design
     + establishing the standards and procedures that the team will use to produce the design materials
     + ensuring that the design and its documentation are of high quality
@@ -91,7 +91,7 @@
 ---
 ### @color[brown](2.2. Gerente de desarrollo)
 #### @color[orange](The implementation manager role)
-- The implementation manager’s role is to produce an implemented product that is of high quality. Among the implementation manager’s specific responsibilities are
+- The implementation manager’s role is to @color[green](produce an implemented product that is of high quality). Among the implementation manager’s specific responsibilities are
     + ensuring that the implementation fully conforms to the design
     + establishing the standards and procedures the team will use to produce the product implementation and its documentation
 
@@ -121,7 +121,7 @@
 ---
 ### @color[brown](2.2. Gerente de desarrollo)
 #### @color[orange](The test manager role)
-- The test manager’s role is to ensure that the system is thoroughly tested and performs all important functions properly. Among the test manager’s responsibilities are
+- The test manager’s role is to @color[green](ensure that the system is thoroughly tested) and performs all important functions properly. Among the test manager’s responsibilities are
     + leading the team in developing comprehensive test plans
     + supporting the customer interface manager to get acceptance test criteria defined and agreed to by the customer during the requirements phase
 
@@ -150,7 +150,7 @@
 ---
 ### @color[brown](2.3. Gerente de planeación)
 #### @color[orange](The planning manager role)
-- The planning manager’s role is to help the team run a well-planned and tracked project. The planning manager is responsible for ensuring that
+- The planning manager’s role is to help the team @color[green](run a well-planned and tracked project). The planning manager is responsible for ensuring that
     + the team is always working to a defined and documented plan
     + plans are generated in the launch for the team as a whole and for each individual team member, in which all known tasks are listed and estimated
 
@@ -170,7 +170,7 @@
 ---
 ### @color[brown](2.4. Gerente de calidad y procesos)
 #### @color[orange](The process manager role)
-- The process manager’s role is to ensure that the team has defined processes available for major development, management, and team functional activities. Among the process manager’s specific duties are
+- The process manager’s role is to @color[green](ensure that the team has defined processes) available for major development, management, and team functional activities. Among the process manager’s specific duties are
     + ensuring that the team always follows a defined and documented process
 
 ---
@@ -199,7 +199,7 @@
 ---
 ### @color[brown](2.4. Gerente de calidad y procesos)
 #### @color[orange](The quality manager role)
-- The quality manager’s role is to lead the team in producing and following the quality parameters for the project, to provide timely analysis and warning of quality problems, and to perform effectively as the team’s inspection moderator. Among the quality managers duties are
+- The quality manager’s role is to @color[green](lead the team in producing and following the quality parameters for the project), to provide timely analysis and warning of quality problems, and to perform effectively as the team’s inspection moderator. Among the quality managers duties are
     + leading the team in developing and following the quality plan
 
 ---
@@ -228,7 +228,7 @@
 ---
 ### @color[brown](2.5. Gerente de soporte)
 #### @color[orange](The support manager role)
-- The support manager’s primary responsibility is to ensure that the team has the proper tools and methods needed to do the project work. The support manager also handles the team’s configuration management and change control functions, and acts as the team’s reuse advocate. Among the support manager’s duties are
+- The support manager’s primary responsibility is to @color[green](ensure that the team has the proper tools and methods) needed to do the project work. The support manager also handles the team’s configuration management and change control functions, and acts as the team’s reuse advocate. Among the support manager’s duties are
 
 ---
 ### @color[brown](2.5. Gerente de soporte)
@@ -254,4 +254,4 @@
 
 ---
 ### @color[brown](Bibliografía)
-- Team Software ProcessSM (TSPSM) Body of Knowledge (BOK). Watts S. Humphrey, Timothy A. Chick, William Nichols, Marsha Pomeroy-Huff. Carnegie Mellon University. Software Engineering Institute. July 2010.
+- Team Software Process<sup>SM</sup> (TSP<sup>SM</sup>) Body of Knowledge (BOK). Watts S. Humphrey, Timothy A. Chick, William Nichols, Marsha Pomeroy-Huff. Carnegie Mellon University. Software Engineering Institute. July 2010.
