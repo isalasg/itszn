@@ -28,67 +28,67 @@
 ### @color[brown](3.2. Proceso de lanzamiento)
 @ul
 - Project and Management Objectives.
-    - Review the launch process and introduce team members.
-    - Discuss the project goals with management and ask questions
+    + Review the launch process and introduce team members.
+    + Discuss the project goals with management and ask questions
 - Team Goals and Roles
-    - Select team roles and backup roles.
-    - Define and document the team's goals.
+    + Select team roles and backup roles.
+    + Define and document the team's goals.
 @ulend
 
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
 @ul
 - Project Strategy and Support
-    - Produce a system conceptual design and fix list (if needed).
-    - Determine the development strategy and products to produce.
-    - Define the development process to be used.
-    - Produce the process and support plans
+    + Produce a system conceptual design and fix list (if needed).
+    + Determine the development strategy and products to produce.
+    + Define the development process to be used.
+    + Produce the process and support plans
 @ulend
 
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
 @ul
 - Overall Plan
-    - Develop size estimates and the overall plan.
+    + Develop size estimates and the overall plan.
 - Quality Plan
-    - Develop the quality plan.
+    + Develop the quality plan.
 @ulend
 
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
 @ul
 - Balanced Plan
-    - allocation of work to team members
-    - bottom-up next-phase plans for each team member
-    - a balanced next-phase plan for the team and each team member
+    + allocation of work to team members
+    + bottom-up next-phase plans for each team member
+    + a balanced next-phase plan for the team and each team member
 @ulend
 
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
 @ul
 - Project Risk Analysis
-    - Identify and evaluate project risks.
-    - Define risk assessment checkpoints and responsibilities.
-    - Propose mitigation actions for immediate high-impact risks.
+    + Identify and evaluate project risks.
+    + Define risk assessment checkpoints and responsibilities.
+    + Propose mitigation actions for immediate high-impact risks.
 @ulend
 
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
 @ul
 - Launch Report Preparation
-    - Prepare a launch report to management.
+    + Prepare a launch report to management.
 - Management Review
-    - Review launch activities and project plans with management.
-    - Discuss project risks, responsibilities, and planned actions.
+    + Review launch activities and project plans with management.
+    + Discuss project risks, responsibilities, and planned actions.
 @ulend
 
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
 @ul
 - Launch Postmortem-Walk through the weekly report preparation.
-    - Gather launch data and produce a launch report.
-    - Enter this report in the project notebook.
-    - Assess the launch process and prepare PIPs.
+    + Gather launch data and produce a launch report.
+    + Enter this report in the project notebook.
+    + Assess the launch process and prepare PIPs.
 @ulend
 
 ---
