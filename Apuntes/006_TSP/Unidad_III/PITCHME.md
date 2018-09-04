@@ -34,8 +34,62 @@
     - Define and document the team's goals.
 
 ---
-### @color[brown](Introducción)
-#### @color[orange](The TSP general team member role)
+### @color[brown](3.2. Proceso de lanzamiento)
+3. Project Strategy and Support
+    - Produce a system conceptual design and fix list (if needed).
+    - Determine the development strategy and products to produce.
+    - Define the development process to be used.
+    - Produce the process and support plans
+
+---
+### @color[brown](3.2. Proceso de lanzamiento)
+4. Overall Plan
+    - Develop size estimates and the overall plan.
+5. Quality Plan
+    - Develop the quality plan.
+
+---
+### @color[brown](3.2. Proceso de lanzamiento)
+6. Balanced Plan
+    - allocation of work to team members
+    - bottom-up next-phase plans for each team member
+    - a balanced next-phase plan for the team and each team member
+
+---
+### @color[brown](3.2. Proceso de lanzamiento)
+7. Project Risk Analysis
+    - Identify and evaluate project risks.
+    - Define risk assessment checkpoints and responsibilities.
+    - Propose mitigation actions for immediate high-impact risks.
+
+---
+### @color[brown](3.2. Proceso de lanzamiento)
+8. Launch Report Preparation
+    - Prepare a launch report to management.
+9. Management Review
+    - Review launch activities and project plans with management.
+    - Discuss project risks, responsibilities, and planned actions.
+
+---
+### @color[brown](3.2. Proceso de lanzamiento)
+10. Launch Postmortem-Walk through the weekly report preparation.
+    - Gather launch data and produce a launch report.
+    - Enter this report in the project notebook.
+    - Assess the launch process and prepare PIPs.
+
+---
+### @color[brown](3.2. Proceso de lanzamiento)
+#### @color[orange](Team Goals and Roles)
+- The general guideline for setting goals is to firs consider que would be a superior result in the eyes of your customer. There are three basic goals:
+    + Produce quality product.
+    + Run a productive and well-managed project.
+    + Finish on time
+
+
+
+
+
+Develop the quality plan.
 - In order to produce quality products, team members should prevent defects whenever possible, remove defects as early in the process as possible, and record data on every defect that they find, and then use the data to improve their personal process.
 - Team members are expected to cooperate with the other members of the team to maintain an effective and productive working environment.
 
