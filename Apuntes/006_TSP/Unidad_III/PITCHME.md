@@ -13,14 +13,17 @@
 @olend
 
 ---
-### @color[brown](Introducción)
-#### @color[orange](TSP team roles)
-- A role can be defined as the @color[green](rights, obligations, and expected behavior patterns) associated with a particular social status. The TSP roles describe what each person on the team is expected to do and transform team members from followers to co-managers of the project. The TSP roles cover all aspects of team management from customer interface issues to testing, and from process management to quality control.
+### @color[brown](3.1. Introducción)
+- Once the team members have been properly trained and the team has been formed, the entire team participates in the TSP team launch. By following the launch process, teams produce a detailed plan. To become a cohesive and effective working unit, all the team members must be committed to the plan. To build this commitment, the TSP involves all the team members in producing that plan.
 
 ---
-### @color[brown](Introducción)
+### @color[brown](3.1. Introducción)
+- Thus, by completing the TSP launch process, all the team members will have participated in producing the plan and they will all agree with and be committed to the plan that they produced.
+
+---
+### @color[brown](3.2. Proceso de lanzamiento)
 #### @color[orange](TSP team roles)
-- There are @color[green](two types) of team member roles in the TSP: @color[green](the general team member role), and eight (or more) @color[green](designated manager roles). Each member of a TSP team is expected to fulfill the general team member role responsibilities in addition to the duties of one or more manager roles. 
+![ProcesoLanzamiento](https://github.com/isalasg/itszn/blob/master/Apuntes/006_TSP/Unidad_III/assets/image/tsplaunchprocess.png?raw=true)
 
 ---
 ### @color[brown](Introducción)
