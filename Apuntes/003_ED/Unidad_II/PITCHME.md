@@ -51,7 +51,7 @@
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
 - En C++ el la función quedaría como:
-- ![Logo](https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/003_ED/Unidad_II/assets/image/fact.png)
+![Factorial](https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/003_ED/Unidad_II/assets/image/fact.png)
 
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
