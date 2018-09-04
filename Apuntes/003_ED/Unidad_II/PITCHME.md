@@ -51,16 +51,7 @@
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
 - En C++ el la función quedaría como:
-@title[GIST Delimiter]
----?gist=gist_id
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&amp;lang=C++&amp;title=GIST: C++ Snippet
-int fact(int n) {   
-if (n==0) {   
-return 0;   
-} else {   
-return n * fact(n-1);   
-}   
-}
+![Logo](assets/image/fact.png)
 
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
