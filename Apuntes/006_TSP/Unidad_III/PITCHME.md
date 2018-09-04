@@ -27,10 +27,10 @@
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
 @ul
-1 Project and Management Objectives.
+- Project and Management Objectives.
     - Review the launch process and introduce team members.
     - Discuss the project goals with management and ask questions
-2 Team Goals and Roles
+- Team Goals and Roles
     - Select team roles and backup roles.
     - Define and document the team's goals.
 @ulend
@@ -38,7 +38,7 @@
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
 @ul
-3 Project Strategy and Support
+- Project Strategy and Support
     - Produce a system conceptual design and fix list (if needed).
     - Determine the development strategy and products to produce.
     - Define the development process to be used.
@@ -48,16 +48,16 @@
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
 @ul
-4 Overall Plan
+- Overall Plan
     - Develop size estimates and the overall plan.
-5 Quality Plan
+- Quality Plan
     - Develop the quality plan.
 @ulend
 
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
 @ul
-6 Balanced Plan
+- Balanced Plan
     - allocation of work to team members
     - bottom-up next-phase plans for each team member
     - a balanced next-phase plan for the team and each team member
@@ -66,7 +66,7 @@
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
 @ul
-7 Project Risk Analysis
+- Project Risk Analysis
     - Identify and evaluate project risks.
     - Define risk assessment checkpoints and responsibilities.
     - Propose mitigation actions for immediate high-impact risks.
@@ -75,9 +75,9 @@
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
 @ul
-8 Launch Report Preparation
+- Launch Report Preparation
     - Prepare a launch report to management.
-9 Management Review
+- Management Review
     - Review launch activities and project plans with management.
     - Discuss project risks, responsibilities, and planned actions.
 @ulend
@@ -85,7 +85,7 @@
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
 @ul
-10 Launch Postmortem-Walk through the weekly report preparation.
+- Launch Postmortem-Walk through the weekly report preparation.
     - Gather launch data and produce a launch report.
     - Enter this report in the project notebook.
     - Assess the launch process and prepare PIPs.
