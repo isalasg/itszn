@@ -22,13 +22,16 @@
 
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
-#### @color[orange](TSP team roles)
 ![ProcesoLanzamiento](https://github.com/isalasg/itszn/blob/master/Apuntes/006_TSP/Unidad_III/assets/image/tsplaunchprocess.png?raw=true)
 
 ---
-### @color[brown](Introducción)
-#### @color[orange](The TSP general team member role)
-- All team members are expected @color[green](to follow a disciplined personal process) to plan, manage, and report on the tasks done to carry out the team’s work, and they must meet their personal commitment to produce quality products. They are also expected to keep the team leader and team members informed of their project status. 
+### @color[brown](3.2. Proceso de lanzamiento)
+1. Project and Management Objectives.
+    - Review the launch process and introduce team members.
+    - Discuss the project goals with management and ask questions
+2. Team Goals and Roles
+    - Select team roles and backup roles.
+    - Define and document the team's goals.
 
 ---
 ### @color[brown](Introducción)
