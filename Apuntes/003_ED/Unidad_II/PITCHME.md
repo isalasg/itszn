@@ -61,7 +61,7 @@
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
 - De manera cíclica en C++:   
-![SaludarCiclo](https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/003_ED/Unidad_II/assets/image/saludarciclo.png)
+![SaludarCiclo](https://github.com/isalasg/itszn/blob/master/Apuntes/003_ED/Unidad_II/assets/image/saludarciclo.png?raw=true)
 
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
