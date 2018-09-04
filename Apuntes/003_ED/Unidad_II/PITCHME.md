@@ -61,16 +61,12 @@
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
 - De manera cíclica en C++:
-> void saludar(int n) {   
->   for (int i=0; i<n; i++) {   
->       cout << "Hola mundo";   
->   }   
-> }
+![SaludarCiclo](https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/003_ED/Unidad_II/assets/image/saludarciclo.png)
 
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
 - De manera recursiva en C++:
-![Logo](assets/imgage/fact.png)
+![SaludarCiclo](https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/003_ED/Unidad_II/assets/image/saludarrec.png)
 
 ---
 ### @color[brown](Bibliografía)
