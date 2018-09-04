@@ -50,7 +50,7 @@
 
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
-- En C++ el la función quedaría como:
+- En C++ el la función quedaría como:   
 ![Factorial](https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/003_ED/Unidad_II/assets/image/fact.png)
 
 ---
@@ -60,12 +60,12 @@
 
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
-- De manera cíclica en C++:
+- De manera cíclica en C++:   
 ![SaludarCiclo](https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/003_ED/Unidad_II/assets/image/saludarciclo.png)
 
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
-- De manera recursiva en C++:
+- De manera recursiva en C++:   
 ![SaludarRecursivo](https://raw.githubusercontent.com/isalasg/itszn/master/Apuntes/003_ED/Unidad_II/assets/image/saludarrec.png)
 
 ---
