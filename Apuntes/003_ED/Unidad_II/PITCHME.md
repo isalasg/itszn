@@ -51,39 +51,42 @@
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
 - En C++ el la función quedaría como:
-> int fact(int n) {
->   if (n==0) {
->       return 0;
->   } else {
->       return n * fact(n-1);
->   }
+> int fact(int n) {   
+>   if (n==0) {   
+>       return 0;   
+>   } else {   
+>       return n * fact(n-1);   
+>   }   
 > }
 
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
 - Cualquier ciclo puede convertirse en recursivo, habrá que tener en cuenta que la recursión es menos eficiente que los ciclos, pero en funciones matemáticas el camino de solución más práctico es la recursión.
-- Por ejemplo, un algoritmos que imprime _n_ veces un texto en pantalla.
+- Por ejemplo, un algoritmos que imprime __n__ veces un texto en pantalla.
 
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
 - De manera cíclica en C++:
-> void saludar(int n) {
->   for (int i=0; i<n; i++) {
->       cout << "Hola mundo";
->   }
+> void saludar(int n) {   
+>   for (int i=0; i<n; i++) {   
+>       cout << "Hola mundo";   
+>   }   
 > }
 
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
 - De manera recursiva en C++:
-> void saludar(int n) {
->   if (n > 0) {
->       cout << "Hola mundo";
->   }
+> void saludar(int n) {   
+>   if (n > 0) {   
+>       cout << "Hola mundo";   
+>   }   
 > }
 
 ---
 ### @color[brown](Bibliografía)
 - Definición de Recursividad. Definicion ABC. Obtenido de: - https://www.definicionabc.com/comunicacion/recursividad.php 
 - Recursión. (2018, 18 de julio). Wikipedia, La enciclopedia libre. Fecha de consulta: 12:45, septiembre 4, 2018 desde https://es.wikipedia.org/w/index.php?title=Recursi%C3%B3n&oldid=109359459.
+
+---
+### @color[brown](Bibliografía)
 - Recursión (ciencias de computación). (2018, 12 de abril). Wikipedia, La enciclopedia libre. Fecha de consulta: 13:02, septiembre 4, 2018 desde https://es.wikipedia.org/w/index.php?title=Recursi%C3%B3n_(ciencias_de_computaci%C3%B3n)&oldid=106984112.
