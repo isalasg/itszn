@@ -26,12 +26,14 @@
 
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
+@ul
 1 Project and Management Objectives.
     - Review the launch process and introduce team members.
     - Discuss the project goals with management and ask questions
 2 Team Goals and Roles
     - Select team roles and backup roles.
     - Define and document the team's goals.
+@ulend
 
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
