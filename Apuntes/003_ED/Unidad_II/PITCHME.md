@@ -51,13 +51,16 @@
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
 - En C++ el la función quedaría como:
-> int fact(int n) {   
->   if (n==0) {   
->       return 0;   
->   } else {   
->       return n * fact(n-1);   
->   }   
-> }
+@title[GIST Delimiter]
+---?gist=gist_id
+---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&amp;lang=C++&amp;title=GIST: C++ Snippet
+int fact(int n) {   
+if (n==0) {   
+return 0;   
+} else {   
+return n * fact(n-1);   
+}   
+}
 
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
@@ -76,11 +79,7 @@
 ---
 ### @color[brown](2.3 Ejemplos de casos recursivos)
 - De manera recursiva en C++:
-> void saludar(int n) {   
->   if (n > 0) {   
->       cout << "Hola mundo";   
->   }   
-> }
+![Logo](assets/imgage/fact.png)
 
 ---
 ### @color[brown](Bibliografía)
