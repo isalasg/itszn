@@ -1,303 +1,149 @@
-# Fundamentos de programación
+# Taller de Ingeniería de Software
 
-### Unidad I
-
----
-
-### Contenido
-
-1.1 Conceptos básicos.  
-1.2 Representación de algoritmos: gráfica y pseudocódigo.  
-1.3 Diseño de algoritmos.  
-1.4 Diseño de funciones.
+### @color[brown](Unidad I)
+### @color[brown](Ingeniería del software para el comercio electrónico)
 
 ---
-
-### 1.1 Conceptos básicos
-#### Algoritmo (cont)
-- Secuencia finita de instrucciones, reglas o pasos que describen de forma precisa las operaciones de un ordenador debe realizar para llevar a cabo una tarea en un tiempo más finito.
-- Todo el mundo conoce y utiliza algoritmos a diario, incluso sin darse cuenta:
-
----
-
-### 1.1 Conceptos básicos
-#### Algoritmo (cont)
-- Una receta de cocina es un algoritmo; si bien podríamos cuestionar que algunos pasos son ambiguos (¿cuánto es «una pizca de sal»? ¿qué significa «agregar a gusto»?), en general las instrucciones están lo suficientemente bien definidas para que uno las pueda seguir sin problemas.  
+### @color[brown](Contenido)
+@ol
+1.1. Antecedentes de los Negocios Electrónicos   
+1.2. Negocio-Comercio electrónico   
+&nbsp;&nbsp;&nbsp;1.2.1 Concepto de e-business y e-commerce   
+&nbsp;&nbsp;&nbsp;1.2.2 Tipos de comercio electrónico   
+&nbsp;&nbsp;&nbsp;1.2.3 Sistemas de comercio electrónico   
+@olend
 
 ---
-
-### 1.1 Conceptos básicos
-#### Algoritmo (cont)
-- La entrada de una receta son los ingredientes y algunos datos como: ¿para cuántas personas se cocinará? El proceso es la serie de pasos para manipular los ingredientes. La salida es el plato terminado.
-- En principio, si una receta está suficientemente bien explicada, podría permitir preparar un plato a alguien que no sepa nada de cocina.  
-
----
-
-### 1.1 Conceptos básicos
-#### Algoritmo (cont)
-- El método para multiplicar números a mano que aprendimos en el colegio es un algoritmo. Dado cualquier par de números enteros, si seguimos paso a paso el procedimiento siempre obtendremos el producto.  
+### @color[brown](Contenido)
+@ol
+1.3. Tecnologías utilizadas para el comercio electrónico: socket, objetos distribuidos, CGI, espacios, contenidos ejecutables, entre otros.   
+1.4. Ingeniería de seguridad: encriptación, firmas digitales, certificaciones digitales, entre otros.   
+1.5. Sistemas distribuidos. 
+@olend
 
 ---
-
-### 1.1 Conceptos básicos
-#### Algoritmo (cont)
-- La entrada del algoritmo de multiplicación son los dos factores. El proceso es la secuencia de pasos en que los dígitos van siendo multiplicados las reservas van siendo sumadas, y los productos intermedios son finalmente sumados. La salida del algoritmo es el producto obtenido.
-- Un algoritmo debe poder ser usado mecánicamente, sin necesidad de usar inteligencia, intuición ni habilidad.
+### @color[brown](1.1. Antecedentes de los Negocios Electrónicos)
+- Comercio electrónico: se refiere a la integración dentro de la empresa de herramientas basadas en tecnologías de información y comunicación (denominadas por lo general software empresarial con el fin de mejorar su funcionamiento y crear valor para la empresa, sus clientes y sus socios.
 
 ---
-
-### 1.1 Conceptos básicos
-#### Programa
-- Es una serie de instrucciones que le indican a la computadora cuáles son las tareas que tiene que realizar para lograr un fin específico. Debe tener una estructura y organización determinadas, y quien lo ejecuta tiene que seguir una secuencia de acciones para que el resultado sea el deseado.
-
----
-
-### 1.1 Conceptos básicos
-#### Programación
-- Es el proceso de diseñar, codificar, depurar y mantener el código fuente de programas computacionales.
+### @color[brown](1.1. Antecedentes de los Negocios Electrónicos)
+- El comercio electrónico ya no se aplica solamente a empresas virtuales cuyas actividades están en su totalidad basadas en la Web, sino también a empresas tradicionales (denominadas de ladrillos y cemento).
+- El término comercio electrónico, de hecho sólo cubre un aspecto de los negocios electrónicos: la utilización de un soporte electrónico para la relación comercial entre la empresa e individuos.
 
 ---
-
-### 1.1 Conceptos básicos
-#### Paradigma de programación
-- Un paradigma de programación indica un método de realizar cómputos y la manera en que se deben estructurar y organizar las tareas que debe llevar a cabo un programa.
-- Los paradigmas fundamentales están asociados a determinados modelos de cómputo.
-- También se asocian a un determinado estilo de programación.
+### @color[brown](1.1. Antecedentes de los Negocios Electrónicos)
+- Podemos confirmar que el año que nació como tal el comercio electrónico fue hacia el 1920 en los Estados Unidos dónde apareció la venta por catálogo. Este nuevo sistema de distribución fue una gran revolución en ese momento, ya que fue la primera vez que se podía comprar sin antes ver el producto. La gran ventaja que posibilitaba este sistema comercial era que se podía vender en zonas rurales difíciles de acceder.
 
 ---
-
-### 1.1 Conceptos básicos
-#### Paradigma de programación (cont)
-- Los lenguajes de programación suelen implementar, a menudo de forma parcial, varios paradigmas.
-- Los paradigmas fundamentales están basados en diferentes modelos de cómputo y por lo tanto afectan a las construcciones más básicas de un programa.
+### @color[brown](1.1. Antecedentes de los Negocios Electrónicos)
+- En 1960 se invento en Estados Unidos una importante forma de Intercambio de Datos Electrónicos el EDI. La historia del eCommerce comienza en este año cuando Electrónic Data Interchange crea el EDI y permite a las empresas realizar transacciones electrónicas e intercambio de información comercial.
 
 ---
-
-### 1.1 Conceptos básicos
-#### Paradigma de programación (cont)
-- La división principal reside en el enfoque imperativo (indicar el cómo se debe calcular) y el enfoque declarativo (indicar el qué se debe calcular).
-    - El enfoque declarativo tiene varias ramas diferenciadas: el paradigma funcional, el paradigma lógico, la programación reactiva y los lenguajes descriptivos.
+### @color[brown](1.1. Antecedentes de los Negocios Electrónicos)
+- No fue hasta la década de los años 1970 que aparecieron las primeras relaciones comerciales que utilizaban un ordenador.
+- El 1989 apareció la WWW o World Wide Web. Este método de transmisión de información entre computadoras  cambiaría por completo la forma de comunicarse y también de comercializar.
 
 ---
-
-### 1.1 Conceptos básicos
-#### Paradigma de programación (cont)
-- Otros paradigmas se centran en la estructura y organización de los programas, y son compatibles con los fundamentales:
-    - Ejemplos: Programación estructurada, modular, orientada a objetos, orientada a eventos, programación genérica.
+### @color[brown](1.1. Antecedentes de los Negocios Electrónicos)
+- A finales de los años 90 con Internet funcionado el comercio electrónico creció como nunca antes lo había hecho. Se crearon portales exclusivamente dedicados a esta actividad – tales como eBay y Amazon, los cuales se mantienen operativos y en pleno crecimiento hasta el día de hoy.
 
 ---
-
-### 1.1 Conceptos básicos
-#### Tipo de dato
-- Un tipo de dato es la propiedad de un valor que determina su dominio (qué valores puede tomar), qué operaciones se le pueden aplicar y cómo es representado internamente por el computador.
-- Todos los valores que aparecen en un programa tienen un tipo.
+### @color[brown](1.1. Antecedentes de los Negocios Electrónicos)
+- El último paso para consolidar el comercio electrónico como o entendemos nosotros fue en el año 1995 cuando los integrantes del G7/G8 crearon la iniciativa de un mercado global para pymes. Esta plataforma tenía el objetivo de aumentar el uso del E-commerce entre las empresas de todo el mundo, y funcionó.
 
 ---
-
-### 1.1 Conceptos básicos
-#### Tipo de dato (cont)
-- Números enteros
-    - El tipo entero (integer) permite representar números enteros.
-    - Los valores que puede tomar son todos los números enteros: -3, -2, -1, 0, 1, 2, 3, etc.
+### @color[brown](1.2. Negocio-Comercio electrónico)
+- El comercio electrónico es definido por la OCDE como el proceso de compra, venta o intercambio de bienes, servicios e información a través de las redes de comunicación. Representa una gran variedad de posibilidades para adquirir bienes o servicios ofrecidos por proveedores en diversas partes del mundo
 
 ---
-
-### 1.1 Conceptos básicos
-#### Tipo de dato (cont)
-- Números reales
-    - El tipo real o flotante (float, doublé) permite representar números reales.
-    - El nombre viene del término punto flotante, que es la manera en que el computador representa internamente los números reales.
+### @color[brown](1.2. Negocio-Comercio electrónico)
+### @color[orange](1.2.1 Concepto de e-business y e-commerce)
+- El e-commerce cubre los procesos por los cuales se llega a los consumidores, proveedores y socios de negocios, incluyendo actividades como ventas, marketing, toma de órdenes, entrega, servicios al consumidor, y management de lealtad del consumidor.
 
 ---
-
-### 1.1 Conceptos básicos
-#### Tipo de dato (cont)
-- Valores lógicos
-    - Los valores lógicos True y False (verdadero y falso).
-- Texto
-    - A los valores que representan texto se les llama cadenas (strings).
+### @color[brown](1.2. Negocio-Comercio electrónico)
+### @color[orange](1.2.1 Concepto de e-business y e-commerce)
+- El e-business incluye al e-commerce, pero también cubre procesos internos como producción, administración de inventario, desarrollo de productos, administración del riesgo, finanzas, desarrollo de estrategias, administración del conocimiento y recursos humanos.
 
 ---
-
-### 1.1 Conceptos básicos
-#### Constante
-- Una constante es un objeto nombrado capaz de contener un dato cuyo valor asignado no puede ser cambiado durante la ejecución de programa.
-
-#### Variable
-- Una variable es un objeto nombrado capaz de contener un dato que puede ser modificado durante la ejecución de programa
+### @color[brown](1.2. Negocio-Comercio electrónico)
+### @color[orange](1.2.2 Tipos de comercio electrónico)
+- Debido a que el mercado tiene diversas necesidades, las técnicas empleadas en el ecommerce se adaptaron para satisfacer a cada uno de los involucrados, lo que derivó en 5 tipos de comercio con los mismos integrantes pero con diferente función.
 
 ---
-
-### 1.1 Conceptos básicos
-#### Operadores
-- Un operador es un símbolo en una expresión que representa una operación aplicada a los valores sobre los que actúa.
-- Los valores sobre los que actúa un operador se llaman operandos. Un operador binario es el que tiene dos operandos, mientras que un operador unario es el que tiene sólo uno.  
+### @color[brown](1.2. Negocio-Comercio electrónico)
+### @color[orange](1.2.2 Tipos de comercio electrónico)
+- __1. Comercio electrónico B2B.__ B2B es la abreviación de business to business (negocio a negocio), y es aquel en donde la transacción comercial únicamente se realiza entre empresas que operan en Internet, lo que quiere decir que no intervienen consumidores.
 
 ---
-
-### 1.1 Conceptos básicos
-#### Operadores (cont)
-- Por ejemplo, en la expresión 2.0 + x el operador + es un operador binario que en este contexto representa la operación de adición. Sus operandos son 2.0 y x.
-- Las operaciones más comunes se pueden clasificar en: aritméticas, relacionales y lógicas.
+### @color[brown](1.2. Negocio-Comercio electrónico)
+### @color[orange](1.2.2 Tipos de comercio electrónico)
+- __2. Comercio electrónico B2C.__ Es conocido como business to consumer (negocio a consumidor). Es aquel que se lleva a cabo entre el negocio o, en este caso tienda virtual, y una persona interesada en comprar un producto o adquirir un servicio.
 
 ---
-
-### 1.1 Conceptos básicos
-#### Operadores (cont)
-- Operadores aritméticos
-    - Las operaciones aritméticas son las que operan sobre valores numéricos y entregan otro valor numérico como resultado. Los valores numéricos son los que tienen tipo entero o real.  
+### @color[brown](1.2. Negocio-Comercio electrónico)
+### @color[orange](1.2.2 Tipos de comercio electrónico)
+- __3. Comercio electrónico B2E.__ Concido como business to employee (negocio a empleado) se centra principalmente entre una empresa y sus empleados. Es decir, son las ofertas que la propia empresa puede ofrecer a sus empleados directamente desde su tienda online o portal de Internet, con ofertas atractivas que servirán de impulso para una mejora en el desempeño laboral. 
 
 ---
-
-### 1.1 Conceptos básicos
-#### Operadores (cont)
-- Operadores aritméticos (cont)
-    - Algunas operaciones aritméticas básicas son:
-        - la suma +;
-        - la resta -;
-        - la multiplicación *;
-        - la división /;
-        - el módulo % (resto de la división).
+### @color[brown](1.2. Negocio-Comercio electrónico)
+### @color[orange](1.2.2 Tipos de comercio electrónico)
+- __4. Comercio electrónico C2C.__ Cuando una persona ya no utiliza algún producto y busca ofrecerlo en venta, puede utilizar el comercio electrónico como medio para realizar esta transacción con otro consumidor. Este tipo se conoce como consumer to consumer (consumidor a consumidor).
 
 ---
-
-### 1.1 Conceptos básicos
-#### Operadores (cont)
-- Operadores relacionales
-    - Las operaciones relacionales sirven para comparar valores. Sus operandos son cualquier cosa que pueda ser comparada, y sus resultados siempre son valores lógicos.  
+### @color[brown](1.2. Negocio-Comercio electrónico)
+### @color[orange](1.2.2 Tipos de comercio electrónico)
+- __5. Comercio electrónico G2C.__ Cuando un gobierno municipal, estatal o federal permite que los ciudadanos realicen sus trámites en línea a través de un portal, se realiza el conocido comercio goverment to consumer (gobierno a consumidor), y se considera un tipo de comercio ya que se paga un trámite y se puede acceder a la información en línea en cualquier momento.
 
 ---
-
-### 1.1 Conceptos básicos
-#### Operadores (cont)
-- Operadores relacionales (cont)
-    - Algunos operadores relacionales son:
-        - el igual a == (no confundir con el = de las asignaciones);
-        - el distinto a !=;
-        - el mayor que >;
-        - el mayor o igual que >=;
-        - el menor que <;
-        - el menor o igual que <=.
+### @color[brown](1.2. Negocio-Comercio electrónico)
+### @color[orange](1.2.3 Sistemas de comercio electrónico)
+- Este tema tratará sobre las características de los negocios investigados en clase como: Alibaba, Aliexpress, Mercado Libre, Linio, Amazon, etc.
 
 ---
-
-### 1.1 Conceptos básicos
-#### Operadores (cont)
-- Operaciones lógicas
-  - Los operadores lógicos son los que tienen operandos y resultado de tipo lógico.
-    - la conjunción lógica and (en español: «y»), representada en algunos lenguajes por &&,
-    - la disyunción lógica or (en español: «o»), representada en algunos lenguajes por || y
-    - la negación lógica not (en español: «no»), representada en algunos lenguajes por !.
+### @color[brown](1.3. Tecnologías utilizadas para el comercio electrónico)
+- La seguridad es la barrera real y psicológica que es necesario franquear para el definitivo despegue del comercio electrónico. Los elementos que forman esta barrera son siete y van más allá de lo meramente físico o lógico e involucran factores tales como la legislación, la educación de los usuarios, etc.
 
 ---
-
-### 1.1 Conceptos básicos
-#### Diagrama de flujo
-- Es la representación gráfica del algoritmo o proceso utilizando símbolos con significados definidos que representan los pasos del algoritmo, y representan el flujo de ejecución mediante flechas que conectan los puntos de inicio y de fin de proceso.
-
----
-
-### 1.1 Conceptos básicos
-#### Seudocódigo
-- Es una descripción informal1 de alto nivel de un algoritmo informático de programación, compacto e informal, que utiliza las convenciones estructurales de un lenguaje de programación verdadero.
+### @color[brown](1.3. Tecnologías utilizadas para el comercio electrónico)
+- __Socket__ designa un concepto abstracto por el cual dos programas (posiblemente situados en computadoras distintas) pueden intercambiar cualquier flujo de datos, generalmente de manera fiable y ordenada.
+- __CGI__ es la interfaz de entrada común (en inglés Common Gateway Interface, abreviado CGI) es una importante tecnología de la WWW que permite a un cliente (navegador web) solicitar datos de un programa ejecutado en un servidor web. 
 
 ---
-
-### 1.1 Conceptos básicos
-#### Lenguaje de programación
-- Es un lenguaje diseñado para describir el conjunto de acciones consecutivas que una computadora debe ejecutar.
+### @color[brown](1.4. Ingeniería de seguridad)
+- __Certificados digitales__ o redes de confianza representan el punto más importante en las transacciones electrónicas seguras. Estos brindan una forma conveniente y fácil de asegurar que los participantes en una transacción electrónica puedan confiar el uno en el otro. Esta confianza se establece a través de un tercero llamado Autoridades Certificadoras.
 
 ---
-
-### Bibliografía
-- UTFSM. (s.f.). Programación UTFSM. Obtenido de http://progra.usm.cl/apunte/materia/index.html
-
----
-
-@title[JavaScript Block]
-
-<p><span class="slide-title">JavaScript Block</span></p>
-
-```javascript
-// Include http module.
-var http = require("http");
-
-// Create the server. Function passed as parameter
-// is called on every request made.
-http.createServer(function (request, response) {
-  // Attach listener on end event.  This event is
-  // called when client sent, awaiting response.
-  request.on("end", function () {
-    // Write headers to the response.
-    // HTTP 200 status, Content-Type text/plain.
-    response.writeHead(200, {
-      'Content-Type': 'text/plain'
-    });
-    // Send data and end response.
-    response.end('Hello HTTP!');
-  });
-
-// Listen on the 8080 port.
-}).listen(8080);
-```
-
-@[1,2](You can present code inlined within your slide markdown too.)
-@[9-17](Displayed using code-syntax highlighting just like your IDE.)
-@[19-20](Again, all of this without ever leaving your slideshow.)
-
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=scala&title=Scala GIST
-
-@[23](You can even present code found within any GitHub GIST.)
-@[41-53](GIST source code is beautifully rendered on any slide.)
-@[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
+### @color[brown](1.4. Ingeniería de seguridad)
+- Los certificados digitales garantizan que dos computadoras que se comunican entre sí puedan efectuar transacciones electrónicas con éxito. La base de esta tecnología reside en los códigos secretos o en la “encriptación”. 
 
 ---
-
-## Template Help
-
-- [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
-- [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
-- [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
-- [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
-- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
+### @color[brown](1.4. Ingeniería de seguridad)
+- __Firmas Digitales__ o Sobres Electrónicos son bloques de datos que han sido codificados con una llave secreta y que se pueden decodificar con una llave pública; son utilizadas principalmente para verificar la autenticidad del mensaje o la de una llave pública .
 
 ---
-
-## Go GitPitch Pro!
-
-<br>
-<div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details here.</a>
-</div>
-<div class="right">
-    <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
-    </ul>
-</div>
+### @color[brown](1.4. Ingeniería de seguridad)
+- __Autoridades Certificadoras__ son organismos reconocidos por la comunidad Internauta sobre los que descansa toda la seguridad de este proceso de certificación. Es decir, la autoridad certificadora entrega un certificado digital personalizado a un individuo que le permitirá identificarse ante terceros.
 
 ---
+### @color[brown](1.4. Ingeniería de seguridad)
+- __SSL__, es el protocolo dominante en la actualidad en el panorama del comercio electrónico, proporciona confidencialidad, integridad y verificación de la identidad de ambas partes (esta últimas característica sólo si se utiliza en conjunción de certificados digitales en ambosextremos, cosa que no suele ser frecuente). 
 
-### Questions?
+---
+### @color[brown](Bibliografía)
+- La historia del comercio electrónico. lynkoo. 2012. 
+    + https://www.lynkoo.com/la-historia-del-comercio-electronico/
+- Diferencias entre e-commerce y e-business. Evaluando Software. 2016.
+    + http://www.evaluandosoftware.com/diferencias-e-commerce-e-business/
 
-<br>
+---
+### @color[brown](Bibliografía)
+- Los 5 tipos de comercio electrónico. Alistair Lane. Shopify. 2014.
+    + https://es.shopify.com/blog/12621205-los-5-tipos-de-comercio-electronico
+- Interfaz de entrada común. Wikipedia. 2018.
+    + https://es.wikipedia.org/wiki/Interfaz_de_entrada_com%C3%BAn
 
-@fa[twitter gp-contact](@gitpitch)
-
-@fa[github gp-contact](gitpitch)
-
-@fa[medium gp-contact](@gitpitch)
-
----?image=assets/image/gitpitch-audience.jpg&opacity=100
-
-@title[Download this Template!]
-
-### <span class="white">Get your presentation started!</span>
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/white-binary)
-
+---
+### @color[brown](Bibliografía)
+- Socket de Internet. Wikipedia. 2018.
+    + https://es.wikipedia.org/wiki/Socket_de_Internet
