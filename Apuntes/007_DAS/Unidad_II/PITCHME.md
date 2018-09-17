@@ -42,4 +42,4 @@
 
 ---
 ### @color[brown](Bibliografía)
-- CUERPO DE CONOCIMIENTO DE SCRUM (Guía SBOK<sup>TM</sup>) Edición 2016. SCRUMStudy<sup>TM<sup>, VMEdu, Inc.2016.
+- CUERPO DE CONOCIMIENTO DE SCRUM (Guía SBOK<sup>TM</sup>) Edición 2016. SCRUMStudy<sup>TM</sup>, VMEdu, Inc.2016.
