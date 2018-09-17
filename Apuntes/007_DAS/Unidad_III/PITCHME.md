@@ -22,28 +22,31 @@
 ---
 ### @color[brown](3.2 Aprobación, estimación y asignación de historias de usuario)
 - —En este proceso, el propietario del producto aprueba las historias de usuario para un sprint. Luego, el Scrum Master y el equipo Scrum estiman el esfuerzo necesario para desarrollar la funcionalidad descrita en cada historia de usuario, y el equipo Scrum se compromete a entregar los requisitos del cliente en forma de historias de usuario aprobadas, estimadas y asignadas.
-- A continuación se muestra un resumen de __Póker de planificación__.
 
 ---
 ### @color[brown](3.2 Aprobación, estimación y asignación de historias de usuario)
 ### @color[orange](Póker de planificación)
-- El póker de planificación, conocido también como póker de estimación, es una técnica de estimación que implementa el consenso para estimar los tamaños relativos de las historias de usuario o el trabajo necesario para desarrollarlos. 
+- A continuación se muestra un resumen de __Póker de planificación:__.
+    + El póker de planificación, conocido también como póker de estimación, es una técnica de estimación que implementa el consenso para estimar los tamaños relativos de las historias de usuario o el trabajo necesario para desarrollarlos. 
 
 ---
 ### @color[brown](3.2 Aprobación, estimación y asignación de historias de usuario)
 ### @color[orange](Póker de planificación)
-- En el póker de planificación, a cada miembro del equipo se le asigna una baraja. Cada carta está enumerada en forma secuencial y los números representan la complejidad del problema en términos de tiempo o esfuerzo, según lo estimado por el miembro del equipo. El propietario del producto elige una historia de usuario de la lista priorizada de pendientes del producto y se la presenta al equipo. 
+- Continuación...
+    + En el póker de planificación, a cada miembro del equipo se le asigna una baraja. Cada carta está enumerada en forma secuencial y los números representan la complejidad del problema en términos de tiempo o esfuerzo, según lo estimado por el miembro del equipo. El propietario del producto elige una historia de usuario de la lista priorizada de pendientes del producto y se la presenta al equipo. 
 
 ---
 ### @color[brown](3.2 Aprobación, estimación y asignación de historias de usuario)
 ### @color[orange](Póker de planificación)
-- Los miembros del equipo Scrum evalúan la historia de usuario e intentan entenderla mejor antes de brindar su estimación para su desarrollo. Después, cada miembro elige una carta de la baraja que represente su estimación para la historia de usuario. Si la mayoría, o todos los miembros del equipo seleccionan la misma carta, entonces el cálculo que indique la carta será el estimado para esta historia de usuario.
+- Continuación...
+    + Los miembros del equipo Scrum evalúan la historia de usuario e intentan entenderla mejor antes de brindar su estimación para su desarrollo. Después, cada miembro elige una carta de la baraja que represente su estimación para la historia de usuario. Si la mayoría, o todos los miembros del equipo seleccionan la misma carta, entonces el cálculo que indique la carta será el estimado para esta historia de usuario.
 
 ---
 ### @color[brown](3.2 Aprobación, estimación y asignación de historias de usuario)
 ### @color[orange](Póker de planificación)
--  Si no hay un consenso, entonces los integrantes del equipo discuten las razones de la selección de distintas cartas o estimaciones. Después del análisis seleccionan nuevamente las cartas. 
--  Esta secuencia continúa hasta que se entienden todas las presuposiciones; hasta que se resuelven los malentendidos o hasta que se llega a un consenso o a un acuerdo.
+- Continuación...
+    + Si no hay un consenso, entonces los integrantes del equipo discuten las razones de la selección de distintas cartas o estimaciones. Después del análisis seleccionan nuevamente las cartas. 
+    + Esta secuencia continúa hasta que se entienden todas las presuposiciones; hasta que se resuelven los malentendidos o hasta que se llega a un consenso o a un acuerdo.
 
 ---
 ### @color[brown](3.2 Aprobación, estimación y asignación de historias de usuario)
