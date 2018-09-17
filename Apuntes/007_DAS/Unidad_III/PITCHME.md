@@ -33,19 +33,30 @@
 ### @color[brown](3.2 Aprobación, estimación y asignación de historias de usuario)
 ### @color[orange](Póker de planificación)
 - Continuación...
-    + En el póker de planificación, a cada miembro del equipo se le asigna una baraja. Cada carta está enumerada en forma secuencial y los números representan la complejidad del problema en términos de tiempo o esfuerzo, según lo estimado por el miembro del equipo. El propietario del producto elige una historia de usuario de la lista priorizada de pendientes del producto y se la presenta al equipo. 
+    + En el póker de planificación, a cada miembro del equipo se le asigna una baraja. Cada carta está enumerada en forma secuencial y los números representan la complejidad del problema en términos de tiempo o esfuerzo, según lo estimado por el miembro del equipo.
 
 ---
 ### @color[brown](3.2 Aprobación, estimación y asignación de historias de usuario)
 ### @color[orange](Póker de planificación)
 - Continuación...
-    + Los miembros del equipo Scrum evalúan la historia de usuario e intentan entenderla mejor antes de brindar su estimación para su desarrollo. Después, cada miembro elige una carta de la baraja que represente su estimación para la historia de usuario. Si la mayoría, o todos los miembros del equipo seleccionan la misma carta, entonces el cálculo que indique la carta será el estimado para esta historia de usuario.
+    + El propietario del producto elige una historia de usuario de la lista priorizada de pendientes del producto y se la presenta al equipo. Los miembros del equipo Scrum evalúan la historia de usuario e intentan entenderla mejor antes de brindar su estimación para su desarrollo.
 
+---
+### @color[brown](3.2 Aprobación, estimación y asignación de historias de usuario)
+### @color[orange](Póker de planificación)
+- Continuación...
+    +Después, cada miembro elige una carta de la baraja que represente su estimación para la historia de usuario. Si la mayoría, o todos los miembros del equipo seleccionan la misma carta, entonces el cálculo que indique la carta será el estimado para esta historia de usuario.
+    
 ---
 ### @color[brown](3.2 Aprobación, estimación y asignación de historias de usuario)
 ### @color[orange](Póker de planificación)
 - Continuación...
     + Si no hay un consenso, entonces los integrantes del equipo discuten las razones de la selección de distintas cartas o estimaciones. Después del análisis seleccionan nuevamente las cartas. 
+      
+---
+### @color[brown](3.2 Aprobación, estimación y asignación de historias de usuario)
+### @color[orange](Póker de planificación)
+- Continuación...
     + Esta secuencia continúa hasta que se entienden todas las presuposiciones; hasta que se resuelven los malentendidos o hasta que se llega a un consenso o a un acuerdo.
 
 ---
