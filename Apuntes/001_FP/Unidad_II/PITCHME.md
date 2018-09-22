@@ -107,9 +107,13 @@
 #### @color[orange](Literales)
 - Un literal es un valor de tipo entero, real, lógico, carácter o cadena que puede aparecer dentro de un programa.
 - Una literal numérica puede ser real \(4.5, 12.56\) o entera \(1, 5\)
+
+---
+### @color[brown](2.4 Elementos del lenguaje)
+#### @color[orange](Literales)
 - Una literal de cadena va encerrada entre comillas \("Hola"\)
 - Una literal de caracter va encerrada entre comillas simples \('F'\)
-- Una literal lógica o booleana puede tener los valors __true__ o __false__
+- Una literal lógica o booleana puede tener los valores __true__ o __false__
 
 ---
 ### @color[brown](2.4 Elementos del lenguaje)
