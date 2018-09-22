@@ -8,9 +8,9 @@
 @ol
 1.1. Antecedentes de los Negocios Electrónicos   
 1.2. Negocio-Comercio electrónico   
-&nbsp;&nbsp;&nbsp;1.2.1 Concepto de e-business y e-commerce   
-&nbsp;&nbsp;&nbsp;1.2.2 Tipos de comercio electrónico   
-&nbsp;&nbsp;&nbsp;1.2.3 Sistemas de comercio electrónico   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1 Concepto de e-business y e-commerce   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2 Tipos de comercio electrónico   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.3 Sistemas de comercio electrónico   
 @olend
 
 ---
