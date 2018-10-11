@@ -104,10 +104,10 @@
 ### @color[brown](3.3. Estrategia de desarrollo)
 #### @color[orange](The Conceptual Design)
 - To make a conceptual design, ask yourself four questions. 
-    + l. Based on what I now know, how would I build this product? 
-    + 2. What are the principal components I Will need to build this product? 
-    + 3. What functions must these components provide? 
-    + 4. How big do I think these components Will be? 
+    + Based on what I now know, how would I build this product? 
+    + What are the principal components I Will need to build this product? 
+    + What functions must these components provide? 
+    + How big do I think these components Will be? 
 
 ---
 ### @color[brown](3.4. Plan de desarrollo)
