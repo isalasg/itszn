@@ -92,24 +92,42 @@
 @ulend
 
 ---
-### @color[brown](3.2. Proceso de lanzamiento)
-#### @color[orange](Team Goals and Roles)
-- The general guideline for setting goals is to first consider que would be a superior result in the eyes of your customer. There are three basic goals:
-    + Produce quality product.
-    + Run a productive and well-managed project.
-    + Finish on time
+### @color[brown](3.3. Estrategia de desarrollo)
+- One of the principal problems in software development is to figure out how to build big systems. Big systems are now built as collections of small parts, or modules. You still need to decide how to assemble the parts. Although there are many ways do this, the principal choices are to build the whole system in giant single release o to assemble the system in a cyclic series of incremental versions.
 
-### @color[brown](3.2. Proceso de lanzamiento)
-@ul
-- Project and Management Objectives.
-    + Review the launch process and introduce team members.
-    + Discuss the project goals with management and ask questions
-- Team Goals and Roles
-    + Select team roles and backup roles.
-    + Define and document the team's goals.
-@ulend
+---
+### @color[brown](3.3. Estrategia de desarrollo)
+#### @color[orange](The Conceptual Design)
+- The conceptual design is the starting point for project planning. The reason you need a conceptual design is that you must make a plan for building a product. You can't use the requirements document for (his purpose because it describes what the user or customer wants and not what you will deliver. Because normally there are many alternative ways to build a product, you must start with an agreed approach for building this product.
 
+---
+### @color[brown](3.3. Estrategia de desarrollo)
+#### @color[orange](The Conceptual Design)
+- To make a conceptual design, ask yourself four questions. 
+    + l. Based on what I now know, how would I build this product? 
+    + 2. What are the principal components I Will need to build this product? 
+    + 3. What functions must these components provide? 
+    + 4. How big do I think these components Will be? 
+
+---
+### @color[brown](3.4. Plan de desarrollo)
+- Depending on the context, plans can be simple or complex. The complexity of a plan is governed largely by the complexity of the work you are planning to do. Not surprisingly, large and complex projects often require large and complex plans. It should also be no surprise that planning such large projects can take a lot of time. 
+
+---
+### @color[brown](3.4. Plan de desarrollo)
+#### @color[orange](Balanced plan)
+- One of the principal causes of scheduling problems is an unbalanced workload. In which some engineers have much more work to do than others. In this situation, the few overcommitted engineers often delay the entire team. A plan is balanced when all the engineers complete their planned tasks in the proper order and at roughly the same time.  
+
+---
+### @color[brown](3.4. Plan de desarrollo)
+#### @color[orange](Balanced plan)
+- With a balanced plan, no one needs to wait for anyone else, and everyone is fully utilized. The engineers who do the work must balance the plan, however, because they are the only ones who can plan in enough detail.
+
+---
+### @color[brown](3.4. Plan de desarrollo)
+#### @color[orange](Planning process)
+![Planningprocess](https://github.com/isalasg/itszn/blob/master/Apuntes/006_TSP/Unidad_III/assets/image/tspplanprocess.png?raw=true)
 
 ---
 ### @color[brown](Bibliografía)
-- Team Software Process<sup>SM</sup> (TSP<sup>SM</sup>) Body of Knowledge (BOK). Watts S. Humphrey, Timothy A. Chick, William Nichols, Marsha Pomeroy-Huff. Carnegie Mellon University. Software Engineering Institute. July 2010.
+- Introduction to the Team Software Process<sup>SM</sup>. Watts S. Humphrey. Addison-Wesley. 2000.
