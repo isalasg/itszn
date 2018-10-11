@@ -14,15 +14,21 @@
 
 ---
 ### @color[brown](3.1. Introducción)
+@ul
 - Once the team members have been properly trained and the team has been formed, the entire team participates in the TSP team launch. By following the launch process, teams produce a detailed plan. To become a cohesive and effective working unit, all the team members must be committed to the plan. To build this commitment, the TSP involves all the team members in producing that plan.
+@ulend
 
 ---
 ### @color[brown](3.1. Introducción)
+@ul
 - Thus, by completing the TSP launch process, all the team members will have participated in producing the plan and they will all agree with and be committed to the plan that they produced.
+@ulend
 
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
+@ul
 ![ProcesoLanzamiento](https://github.com/isalasg/itszn/blob/master/Apuntes/006_TSP/Unidad_III/assets/image/tsplaunchprocess.png?raw=true)
+@ulend
 
 ---
 ### @color[brown](3.2. Proceso de lanzamiento)
@@ -138,7 +144,9 @@
 ---
 ### @color[brown](3.4. Plan de desarrollo)
 #### @color[orange](Planning process)
+@ul
 ![Planningprocess](https://github.com/isalasg/itszn/blob/master/Apuntes/006_TSP/Unidad_III/assets/image/tspplanprocess.png?raw=true)
+@ulend
 
 ---
 ### @color[brown](Bibliografía)
