@@ -93,35 +93,47 @@
 
 ---
 ### @color[brown](3.3. Estrategia de desarrollo)
+@ul
 - One of the principal problems in software development is to figure out how to build big systems. Big systems are now built as collections of small parts, or modules. You still need to decide how to assemble the parts. Although there are many ways do this, the principal choices are to build the whole system in giant single release o to assemble the system in a cyclic series of incremental versions.
+@ulend
 
 ---
 ### @color[brown](3.3. Estrategia de desarrollo)
 #### @color[orange](The Conceptual Design)
+@ul
 - The conceptual design is the starting point for project planning. The reason you need a conceptual design is that you must make a plan for building a product. You can't use the requirements document for (his purpose because it describes what the user or customer wants and not what you will deliver. Because normally there are many alternative ways to build a product, you must start with an agreed approach for building this product.
+@ulend
 
 ---
 ### @color[brown](3.3. Estrategia de desarrollo)
 #### @color[orange](The Conceptual Design)
+@ul
 - To make a conceptual design, ask yourself four questions. 
     + Based on what I now know, how would I build this product? 
     + What are the principal components I Will need to build this product? 
     + What functions must these components provide? 
     + How big do I think these components Will be? 
+@ulend
 
 ---
 ### @color[brown](3.4. Plan de desarrollo)
+@ul
 - Depending on the context, plans can be simple or complex. The complexity of a plan is governed largely by the complexity of the work you are planning to do. Not surprisingly, large and complex projects often require large and complex plans. It should also be no surprise that planning such large projects can take a lot of time. 
+@ulend
 
 ---
 ### @color[brown](3.4. Plan de desarrollo)
 #### @color[orange](Balanced plan)
+@ul
 - One of the principal causes of scheduling problems is an unbalanced workload. In which some engineers have much more work to do than others. In this situation, the few overcommitted engineers often delay the entire team. A plan is balanced when all the engineers complete their planned tasks in the proper order and at roughly the same time.  
+@ulend
 
 ---
 ### @color[brown](3.4. Plan de desarrollo)
 #### @color[orange](Balanced plan)
+@ul
 - With a balanced plan, no one needs to wait for anyone else, and everyone is fully utilized. The engineers who do the work must balance the plan, however, because they are the only ones who can plan in enough detail.
+@ulend
 
 ---
 ### @color[brown](3.4. Plan de desarrollo)
