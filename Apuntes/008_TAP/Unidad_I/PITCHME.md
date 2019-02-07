@@ -1,15 +1,14 @@
 # Tópicos Avanzados de Programación
 
 ### @color[brown](Unidad I)
+### @color[brown](Eventos)
 
 ---
 ### @color[brown](Contenido)
-@ol
 - 1.1. Tipos de eventos
 - 1.2. Generación y propagación de eventos
 - 1.3. Métodos de control de eventos
 - 1.4. Creación de eventos
-@olend
 
 ---
 ### @color[brown](1.1 Conceptos básicos)
