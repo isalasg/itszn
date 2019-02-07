@@ -5,10 +5,10 @@
 ---
 ### @color[brown](Contenido)
 @ol
-    1.1. Tipos de eventos
-    1.2. Generación y propagación de eventos
-    1.3. Métodos de control de eventos
-    1.4. Creación de eventos
+- 1.1. Tipos de eventos
+- 1.2. Generación y propagación de eventos
+- 1.3. Métodos de control de eventos
+- 1.4. Creación de eventos
 @olend
 
 ---
