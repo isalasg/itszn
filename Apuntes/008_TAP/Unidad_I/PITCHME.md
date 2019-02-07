@@ -12,14 +12,22 @@
 
 ---
 ### @color[brown](1.1 Tipos de eventos)
-#### @color[orange](Eventos)
+#### @color[orange](Introducción)
 @ul
 - Los eventos son todas las acciones que el usuario inicia, dar clic sobre un botón, presionar las teclas del teclado, etc. Cada vez que se produce un evento, se crea un objeto. La clase padre de los eventos, dependiendo del lenguaje puede ser @color[blue](java.awt.event) en Java o @color[blue](Sytem.EventHandler) en C#. 
 @ulend
 
 ---
 ### @color[brown](1.1 Tipos de eventos)
-#### @color[orange](Tipos)
+#### @color[orange](Introducción)
+@ul
+- Eventos externos. Son aquellos producidos por el usuario, por ejemplo al dar click sobre algún control,o presionar cierta tecla.
+- Eventos internos. Son aquellos producidos por el sistema o la aplicación, por ejemplo el vencimiento de un temporizador, o recepción de datos en líneas de comunicaciones.
+@ulend
+
+---
+### @color[brown](1.1 Tipos de eventos)
+#### @color[orange](Eventos de ventana)
 @ul
 - Eventos de ventana más comunes
     + Open
@@ -30,32 +38,47 @@
 
 ---
 ### @color[brown](1.1 Tipos de eventos)
-#### @color[orange](Tipos)
+#### @color[orange](Eventos de teclado)
 @ul
-- Eventos de ventana más comunes
-    + Open
-    + Close
-    + Resize
-    + Move
-@ulend
-
-        WINDOW_EXPOSE
-        WINDOW_ICONIFY
-        WINDOW_DEICONIFY
-        WINDOW_MOVED
-
--  Los eventos son todas las acciones que el usuario inicia, dar clic sobre un botón, presionar las teclas del teclado, etc. Cada vez que se produce un evento, se crea un objeto. La clase padre de los eventos, dependiendo del lenguaje puede ser @color[blue](java.awt.event) en Java o @color[blue](Sytem.EventHandler) en C#. 
-@ulend
----
-@ul
-- Los eventos habilitan una clase u objeto para notificarlo a otras clases u objetos. 
-- La clase que envía (o genera) el evento recibe el nombre de publicador.
-- Las clases que reciben (o controlan) el evento se denominan suscriptores.
+- Eventos de teclado más comunes
+    + KeyPress
+    + KeyUp
+    + KeyDown
 @ulend
 
 ---
+### @color[brown](1.1 Tipos de eventos)
+#### @color[orange](Eventos de ratón)
 @ul
-- En una aplicación web o una aplicación de Formularios típica, se puede suscribir a eventos generados por controles, como botones y cuadros de lista. 
+- Eventos de ratón más comunes
+    + MouseClick
+    + MouseDoubleClick
+    + MouseHover
+    + MouseEnter
+    + MouseLeave
+@ulend
+
+---
+### @color[brown](1.2. Generación y propagación de eventos)
+#### @color[orange](Introducción)
+@ul
+- Se llama suscripción a un evento, cuando queremos que el Manejador de Eventos del lenguaje, esté atento al disparo de dicho evento. Por ejemplo, puede suscribirse al evento click de un botón para que la aplicación realice alguna operación cuando el usuario haga clic en el botón.
+@ulend
+
+---
+### @color[brown](1.2. Generación y propagación de eventos)
+#### @color[orange](Suscripción automática)
+@ul
+- Los lenguajes visuales actuales, pueden hacer la suscripción a los eventos de forma automática, simplemente dando doble click sobre el control (que se suscribirá al evento más común dependiendo del control), o seleccionando desde la ventana de propiedades el evento deseado. Este suscribe el control al evento y genera el método asociado al evento.
+@ulend
+
+---
+### @color[brown](1.2. Generación y propagación de eventos)
+#### @color[orange](Suscripción manual)
+@ul
+- La forma depende del lenguaje, pero en general una vez creado el control, este se suscribe al evento mediante el operador @color[green](+=), por ejemplo en C#, para suscribir un botón al evento click sería: @color[green](boton.Click += new System.EventHandler(boton_Click);), donde @color[green](boton.Click) es el evento @color[green](EventHandler) es el manejador del evento de C# y @color[green](button_Click) es el método asociado al evento.
+@ulend
+
 ---
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Algoritmo -cont-)
