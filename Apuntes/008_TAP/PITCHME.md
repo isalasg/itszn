@@ -34,7 +34,7 @@ Introducción
 
 ---
 - Competencia
-    + Desarrollar soluciones de software utilizando programación concurrente, programación de eventos, que soporte interfaz gráfica e incluya dispositivos móviles..
+    + Desarrollar soluciones de software utilizando programación concurrente, programación de eventos, que soporte interfaz gráfica e incluya dispositivos móviles.
 
 ---
 
@@ -51,12 +51,12 @@ UNIDAD | TEMAS | SUBTEMAS
 ---
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-3 | Componentes y librerías. | 3.1. Definición conceptual de componentes, paquetes / librerías 3.2. Uso de componentes (visuales y no visuales) proporcionados por el lenguaje 3.3. Uso de librerías proporcionadas por el lenguaje 3.4. Creación de componentes (visuales y no visuales) definidos por el usuario 3.5. Creación y uso de paquetes / librerías definidas por el usuario.
+3 | Componentes y librerías | 3.1. Definición conceptual de componentes, paquetes / librerías 3.2. Uso de componentes (visuales y no visuales) proporcionados por el lenguaje 3.3. Uso de librerías proporcionadas por el lenguaje 3.4. Creación de componentes (visuales y no visuales) definidos por el usuario 3.5. Creación y uso de paquetes / librerías definidas por el usuario
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
 -- | -- | --
-4 | Programación concurrente (MultiHilos) | 4.1. Concepto de hilo. 4.2. Comparación de un programa de flujo único contra uno de flujo múltiple 4.3. Creación y control de hilos 4.4. Sincronización de hilos
+4 | Programación concurrente (MultiHilos) | 4.1. Concepto de hilo 4.2. Comparación de un programa de flujo único contra uno de flujo múltiple 4.3. Creación y control de hilos 4.4. Sincronización de hilos
 
 ---
 UNIDAD | TEMAS | SUBTEMAS
@@ -65,11 +65,11 @@ UNIDAD | TEMAS | SUBTEMAS
 
 ---
 ### @color[brown](Plan)
-- Unidad I. 4 semanas
-- Unidad II. 2 semanas
-- Unidad III. 6 semanas
+- Unidad I. 2 semanas
+- Unidad II. 5 semanas
+- Unidad III. 3 semanas
 - Unidad IV. 3 semanas
-- Unidad V. 2 semanas
+- Unidad V. 4 semanas
 
 ---
 ### @color[brown](Políticas del curso)
