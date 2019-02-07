@@ -1,14 +1,14 @@
-# Fundamentos de programación
+# Tópicos Avanzados de Programación
 
 ### @color[brown](Unidad I)
 
 ---
 ### @color[brown](Contenido)
 @ol
-    1.1 Conceptos básicos.  
-    1.2 Representación de algoritmos: gráfica y pseudocódigo (Ejercicios en cuaderno). [Resumen de Diagramas de Actividad](https://github.com/isalasg/itszn/blob/master/Apuntes/001_FP/Unidad_I/rda.pdf).  
-    1.3 Diseño de algoritmos (Ejercicios en cuaderno).  
-    1.4 Diseño de funciones (Ejercicios en cuaderno).
+    1.1. Tipos de eventos
+    1.2. Generación y propagación de eventos
+    1.3. Métodos de control de eventos
+    1.4. Creación de eventos
 @olend
 
 ---
