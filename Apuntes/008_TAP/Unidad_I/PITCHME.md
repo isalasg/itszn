@@ -11,11 +11,22 @@
 - 1.4. Creación de eventos
 
 ---
-### @color[brown](1.1 Conceptos básicos)
-#### @color[orange](Algoritmo)
-- Secuencia finita de @color[green](instrucciones), @color[green](reglas) o @color[green](pasos) que describen de forma precisa las operaciones de un ordenador debe realizar para llevar a cabo una @color[green](tarea) en un tiempo más finito.
-- Todo el mundo conoce y utiliza algoritmos a diario, incluso sin darse cuenta:
+### @color[brown](1.1 Tipos de eventos)
+#### @color[orange](Evento)
+@ul
+- Los eventos son todas las acciones que el usuario inicia, dar clic sobre un botón, presionar las teclas del teclado, etc. Cada vez que se produce un evento, se crea un objeto. La clase padre de los eventos, dependiendo del lenguaje puede ser @color[blue](java.awt.event) en Java o @color[blue](Sytem.EventHandler) en C#. 
+@ulend
 
+---
+@ul
+- Los eventos habilitan una clase u objeto para notificarlo a otras clases u objetos. 
+- La clase que envía (o genera) el evento recibe el nombre de publicador.
+- Las clases que reciben (o controlan) el evento se denominan suscriptores.
+@ulend
+
+---
+@ul
+- En una aplicación web o una aplicación de Formularios típica, se puede suscribir a eventos generados por controles, como botones y cuadros de lista. 
 ---
 ### @color[brown](1.1 Conceptos básicos)
 #### @color[orange](Algoritmo -cont-)
