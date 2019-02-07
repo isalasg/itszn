@@ -76,7 +76,7 @@
 ### @color[brown](1.2. Generación y propagación de eventos)
 #### @color[orange](Suscripción manual)
 @ul
-- La forma depende del lenguaje, pero en general una vez creado el control, este se suscribe al evento mediante el operador @color[green](+=), por ejemplo en C#, para suscribir un botón al evento click sería: @color[green](boton.Click += new System.EventHandler(boton_Click);), donde @color[green](boton.Click) es el evento @color[green](EventHandler) es el manejador del evento de C# y @color[green](button_Click) es el método asociado al evento.
+- La forma depende del lenguaje, pero en general una vez creado el control, este se suscribe al evento mediante el operador @color[green](+=), por ejemplo en C#, para suscribir un botón al evento click sería: @color[green](boton.Click += new System.EventHandler\(boton_Click\);), donde @color[green](boton.Click) es el evento @color[green](EventHandler) es el manejador del evento de C# y @color[green](button_Click) es el método asociado al evento.
 @ulend
 
 ---
