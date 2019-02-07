@@ -12,11 +12,40 @@
 
 ---
 ### @color[brown](1.1 Tipos de eventos)
-#### @color[orange](Evento)
+#### @color[orange](Eventos)
 @ul
 - Los eventos son todas las acciones que el usuario inicia, dar clic sobre un botón, presionar las teclas del teclado, etc. Cada vez que se produce un evento, se crea un objeto. La clase padre de los eventos, dependiendo del lenguaje puede ser @color[blue](java.awt.event) en Java o @color[blue](Sytem.EventHandler) en C#. 
 @ulend
 
+---
+### @color[brown](1.1 Tipos de eventos)
+#### @color[orange](Tipos)
+@ul
+- Eventos de ventana más comunes
+    + Open
+    + Close
+    + Resize
+    + Move
+@ulend
+
+---
+### @color[brown](1.1 Tipos de eventos)
+#### @color[orange](Tipos)
+@ul
+- Eventos de ventana más comunes
+    + Open
+    + Close
+    + Resize
+    + Move
+@ulend
+
+        WINDOW_EXPOSE
+        WINDOW_ICONIFY
+        WINDOW_DEICONIFY
+        WINDOW_MOVED
+
+-  Los eventos son todas las acciones que el usuario inicia, dar clic sobre un botón, presionar las teclas del teclado, etc. Cada vez que se produce un evento, se crea un objeto. La clase padre de los eventos, dependiendo del lenguaje puede ser @color[blue](java.awt.event) en Java o @color[blue](Sytem.EventHandler) en C#. 
+@ulend
 ---
 @ul
 - Los eventos habilitan una clase u objeto para notificarlo a otras clases u objetos. 
