@@ -92,6 +92,13 @@
 @ul
 - En C# los pasos para crear un envento de forma manual son:
     + Un evento se genera a partir de un delegado, el cual mantiene la firma (sus parámetros y retorno), la misma clase donde se declara será encargada de definir la propagación del evento, donde se manda llamar como si fuese un método, respetando la firma del delegado.
+@ulend
+
+
+---
+### @color[brown](1.4 Creación de Eventos)
+@ul
+- En C# los pasos para crear un envento de forma manual son:
     + Asociado a un evento, existe un método que cumple con la firma del delegado, generalmente, todos los métodos asociados a los eventos se encuentran en una clase.
 @ulend
 
