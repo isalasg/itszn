@@ -6,4 +6,4 @@
 Página
 ---
 Código:
----?code=src/prueba.cpp&lang=cpp
++++?code=src/prueba.cpp&lang=cpp
