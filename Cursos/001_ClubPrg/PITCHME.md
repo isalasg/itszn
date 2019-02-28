@@ -1,4 +1,4 @@
-# Fundamentos de programación
+# Club de Programación
 
 ### @color[brown](Prueba)
 
@@ -6,4 +6,4 @@
 Página
 ---
 Código:
-@code[cpp](prueba.cpp)
+---?code=src/prueba.cpp
