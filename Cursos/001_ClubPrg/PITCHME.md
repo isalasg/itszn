@@ -6,4 +6,4 @@
 Página
 ---
 Código:
-+++?code=Cursos/src/prueba.cpp&lang=cpp
++++?code=itszn/Cursos/src/prueba.cpp&lang=cpp
