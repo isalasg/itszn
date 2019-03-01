@@ -6,4 +6,4 @@
 Página
 ---
 Código:
----?code=src/prueba.cpp&lang=cpp
+---?code=itszn/Cursos/001_ClubPrg/src/prueba.cpp&lang=cpp
