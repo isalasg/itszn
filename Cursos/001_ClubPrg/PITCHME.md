@@ -13,3 +13,6 @@ Código:
 @[5](Función principal)
 @[6-7](Instrucciones)
 @[8](Fin de función principal)
+
+---
+Hola mundo cruel
