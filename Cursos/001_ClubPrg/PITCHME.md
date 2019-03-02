@@ -11,4 +11,4 @@
 ---
 ### @color[brown](Contenido)
 - [Sesión 1 - IDE y estructura básica](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg/001_Sesion1)
-- [Sesión 2 - Entrada y salida](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg/001_Sesion2)
+- [Sesión 2 - Entrada y salida](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg/002_Sesion2)
