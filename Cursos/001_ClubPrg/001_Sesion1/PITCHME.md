@@ -39,8 +39,8 @@
 
 ---
 ### @color[brown](1.3 Ejemplo)
-@title[1.3 Ejemplo]
 ---?code=Cursos/001_ClubPrg/001_Sesion1/src/001_Estructura.cpp&lang=cpp
+@title[1.3 Ejemplo]
 @[1](Bibliotecas)
 @[3](Espacio de nombres)
 @[5](Función principal)
