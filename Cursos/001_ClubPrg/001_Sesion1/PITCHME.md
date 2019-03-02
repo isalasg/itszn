@@ -37,7 +37,7 @@
 ---
 ### @color[brown](1.3 Ejemplo)
 #### @color[blue](Hola mundo)
----?code=Cursos/001_ClubPrg/001_Sesion1/src/001_Estructura.cpp&lang=cpp
+---?code=Cursos/001_ClubPrg/001_Sesion1/src/001_Estructura.cpp&lang=cpp&title=Hola mundo
 @[1](Bibliotecas)
 @[3](Espacio de nombres)
 @[5](Función principal)
