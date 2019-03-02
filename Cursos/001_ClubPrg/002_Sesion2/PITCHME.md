@@ -47,7 +47,7 @@
     + *\t* tabulador
     + *\'* apóstrofo
     + *\"* comillas
-    + *\\* diagonal invertida
+    + *\\\* diagonal invertida
     + 
 @ulend
 
@@ -65,12 +65,12 @@
 
 ---
 ### @color[brown](2.3 Ejemplos)
----?code=Cursos/001_ClubPrg/002_Sesion1/src/002_Salida.cpp&lang=cpp&title=Hola mundo
+---?code=Cursos/001_ClubPrg/002_Sesion2/src/002_Salida.cpp&lang=cpp&title=Hola mundo
 @[6](Imprime texto)
 @[7](Imprime valor)
 @[8](Imprime texto y valor)
 
----?code=Cursos/001_ClubPrg/002_Sesion1/src/003_EntradaSalida.cpp&lang=cpp&title=Hola mundo
+---?code=Cursos/001_ClubPrg/002_Sesion2/src/003_EntradaSalida.cpp&lang=cpp&title=Hola mundo
 @[6](Declaración de variable nombre)
 @[8](Imprimimos texto solicitando el nombre)
 @[9](Leemos y guardamos en variable nombre)
