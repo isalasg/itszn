@@ -43,3 +43,8 @@
 @[5](Función principal)
 @[6-7](Instrucciones)
 @[8](Fin de función principal)
+
+---
+### @color[brown](Contenido)
+- Regresar a [Introducción](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg)
+- Seguir a [Sesión 2 - Entrada y salida](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg/001_Sesion2)
