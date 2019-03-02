@@ -35,6 +35,14 @@
 @ulend
 
 ---
+### @color[brown](1.2 Estructura básica)
+- Algunas consideraciones:
+@ul
+- Un programa en C++ tiene que guardarse con la extensión de archivo .cpp
+- Por ejemplo, hola.cpp
+@ulend
+
+---
 ### @color[brown](1.3 Ejemplo)
 #### @color[blue](Hola mundo)
 ---?code=Cursos/001_ClubPrg/001_Sesion1/src/001_Estructura.cpp&lang=cpp&title=Hola mundo
