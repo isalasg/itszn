@@ -4,14 +4,12 @@
 
 ---
 ### @color[brown](Contenido)
-@title[Contenido]
 - 1.1 IDE
 - 1.2 Estructura básica
 - 1.3 Ejemplo
 
 ---
 ### @color[brown](1.1 IDE)
-@title[1.1 IDE]
 - El IDE a utilizar en el curso será [Code::Blocks](http://www.codeblocks.org/)
 - Puede ser descargado en distintas versiones:
     + *binaries* para su instalación
@@ -28,7 +26,6 @@
 
 ---
 ### @color[brown](1.2 Estructura básica)
-@title[1.2 Estructura básica]
 - Un programa en C++ tiene las siguientes secciones:
 @ul
 - Inclusión de bibliotecas
@@ -39,8 +36,8 @@
 
 ---
 ### @color[brown](1.3 Ejemplo)
+#### @color[blue](Hola mundo)
 ---?code=Cursos/001_ClubPrg/001_Sesion1/src/001_Estructura.cpp&lang=cpp
-@title[1.3 Ejemplo]
 @[1](Bibliotecas)
 @[3](Espacio de nombres)
 @[5](Función principal)
