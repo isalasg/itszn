@@ -79,4 +79,4 @@
 ### @color[brown](Contenido)
 - Regresar a inicio [Sesión 2 - IDE y estructura básica](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg/002_Sesion2)
 - Regresar a [Introducción](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg)
-- Seguir a [Sesión 3 - Tipos de datos, variables, operadores](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg/003_Sesion3)
+- Seguir a [Sesión 3 - Identificadores, tipos de datos, variables y constantes](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg/003_Sesion3)
