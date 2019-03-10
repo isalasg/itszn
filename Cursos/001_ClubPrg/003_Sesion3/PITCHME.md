@@ -42,11 +42,23 @@
     + double - número de punto flotante de doble precisión
     + long double - numero de punto flotante doble precisión largo
     + bool - lógico
+@ulend
+
+---
+### @color[brown](3.2 Tipos de datos)
+@ul
+- Los tipos de datos fundamentales de C++ son (cont...):
     + char - caracter
     + signed char - caracter con signo
     + unsigned char - caracter sin signo
     + short int - entero corto
     + int - entero
+@ulend
+
+---
+### @color[brown](3.2 Tipos de datos)
+@ul
+- Los tipos de datos fundamentales de C++ son (cont...):
     + long int - entero largo
     + long long int - entero doble largo
     + unsigned short int - entero corto sin signo
