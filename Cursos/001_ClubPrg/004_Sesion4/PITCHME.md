@@ -9,6 +9,7 @@
 - 4.3 Operadores relacionales
 - 4.4 Operadores lógicos
 - 4.5 Otros operadores
+- 4.6 Precedencia de operadores
 
 ---
 ### @color[brown](4.1 Introducción)
@@ -63,7 +64,33 @@
 @ulend
 
 ---
+### @color[brown](4.6 Precedencia de operadores)
+@ul
+- En una expresión, los operadores se evalúan primero los de mayor precedencia seguidos de la menor precedencia.
+- Si la precedencia es la misma, la evaluación se realiza de izquierda a derecha.
+@ulend
+
+---
+### @color[brown](4.6 Precedencia de operadores)
+@ul
+- Paréntesis: __()__
+- Operadores unarios: __!, ++, --__
+- Multiplicación, división, módulo: __*, /, %__
+- Suma, resta: __+, -__
+@ulend
+
+---
+### @color[brown](4.6 Precedencia de operadores)
+@ul
+- Mayor que, menor que, mayor o igual, menor o igual: __>, <, >=, <=__
+- Igual, diferente: __==, !=__
+- And: __&&__
+- Or: __||__
+- Operador ternario: __? :__
+@ulend
+
+---
 ### @color[brown](Contenido)
 - Regresar a inicio [Sesión 4 - Operadores](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg/004_Sesion4)
 - Regresar a [Introducción](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg)
-- Seguir a [Sesión 3 - Identificadores, tipos de datos, variables y constantes](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg/003_Sesion3)
+- Seguir a [Sesión 5 - Expresiones](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg/005_Sesion5)

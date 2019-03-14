@@ -109,4 +109,4 @@
 ### @color[brown](Contenido)
 - Regresar a inicio [Sesión 3 - Identificadores, tipos de datos, variables y constantes](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg/003_Sesion3)
 - Regresar a [Introducción](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg)
-- Seguir a [Sesión 4 - Operadores y expresiones](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg/004_Sesion4)
+- Seguir a [Sesión 4 - Operadores](https://gitpitch.com/isalasg/itszn/master?p=Cursos/001_ClubPrg/004_Sesion4)
